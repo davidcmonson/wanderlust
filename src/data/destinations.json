@@ -1,0 +1,4053 @@
+[
+  {
+    "id": "bali-indonesia",
+    "name": "Bali",
+    "country": "Indonesia",
+    "region": "southeast-asia",
+    "description": "Lush rice terraces, ancient temples, and world-class surf breaks on a mystical island paradise.",
+    "climate": "tropical",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 30,
+      "mid": 75,
+      "luxury": 200
+    },
+    "flightEstimateUSD": {
+      "fromUS": 800,
+      "fromEurope": 650,
+      "fromAsia": 300
+    },
+    "activities": [
+      "beach",
+      "culture",
+      "wellness"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "couple",
+      "solo"
+    ],
+    "highlights": [
+      "Ubud rice terraces",
+      "Uluwatu Temple",
+      "Seminyak beach clubs"
+    ],
+    "unsplashQuery": "bali indonesia temple",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "bangkok-thailand",
+    "name": "Bangkok",
+    "country": "Thailand",
+    "region": "southeast-asia",
+    "description": "A sensory overload of golden temples, sizzling street food, and electric nightlife.",
+    "climate": "tropical",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 25,
+      "mid": 60,
+      "luxury": 180
+    },
+    "flightEstimateUSD": {
+      "fromUS": 700,
+      "fromEurope": 550,
+      "fromAsia": 150
+    },
+    "activities": [
+      "food",
+      "culture",
+      "nightlife"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Grand Palace",
+      "Chatuchak Market",
+      "Khao San Road"
+    ],
+    "unsplashQuery": "bangkok thailand temple",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "chiang-mai-thailand",
+    "name": "Chiang Mai",
+    "country": "Thailand",
+    "region": "southeast-asia",
+    "description": "Mountain-ringed city of hundreds of Buddhist temples and legendary night bazaars.",
+    "climate": "tropical",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 20,
+      "mid": 50,
+      "luxury": 150
+    },
+    "flightEstimateUSD": {
+      "fromUS": 750,
+      "fromEurope": 580,
+      "fromAsia": 180
+    },
+    "activities": [
+      "culture",
+      "food",
+      "wellness",
+      "nature"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo"
+    ],
+    "highlights": [
+      "Doi Suthep Temple",
+      "Sunday Walking Street",
+      "Thai cooking classes"
+    ],
+    "unsplashQuery": "chiang mai thailand temple",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1598935898639-81586f7d2129?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "hanoi-vietnam",
+    "name": "Hanoi",
+    "country": "Vietnam",
+    "region": "southeast-asia",
+    "description": "Chaotic charm of motorbike-filled streets, French colonial architecture, and steaming pho.",
+    "climate": "tropical",
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "budgetPerDayUSD": {
+      "budget": 20,
+      "mid": 55,
+      "luxury": 160
+    },
+    "flightEstimateUSD": {
+      "fromUS": 750,
+      "fromEurope": 550,
+      "fromAsia": 200
+    },
+    "activities": [
+      "food",
+      "culture",
+      "history"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Old Quarter",
+      "Hoan Kiem Lake",
+      "Street food tours"
+    ],
+    "unsplashQuery": "hanoi vietnam old quarter",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1509030450996-dd1a26dda07a?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "luang-prabang-laos",
+    "name": "Luang Prabang",
+    "country": "Laos",
+    "region": "southeast-asia",
+    "description": "Serene UNESCO town where saffron-robed monks walk at dawn along the Mekong River.",
+    "climate": "tropical",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 25,
+      "mid": 60,
+      "luxury": 180
+    },
+    "flightEstimateUSD": {
+      "fromUS": 900,
+      "fromEurope": 700,
+      "fromAsia": 250
+    },
+    "activities": [
+      "culture",
+      "nature",
+      "wellness"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Alms giving ceremony",
+      "Kuang Si Falls",
+      "Night market"
+    ],
+    "unsplashQuery": "luang prabang laos temple",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1551244072-5d12893278ab?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "el-nido-philippines",
+    "name": "El Nido",
+    "country": "Philippines",
+    "region": "southeast-asia",
+    "description": "Dramatic limestone cliffs sheltering hidden lagoons and pristine white-sand beaches.",
+    "climate": "tropical",
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "budgetPerDayUSD": {
+      "budget": 30,
+      "mid": 70,
+      "luxury": 250
+    },
+    "flightEstimateUSD": {
+      "fromUS": 850,
+      "fromEurope": 700,
+      "fromAsia": 280
+    },
+    "activities": [
+      "beach",
+      "adventure",
+      "nature"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "couple",
+      "solo"
+    ],
+    "highlights": [
+      "Big Lagoon",
+      "Island hopping tours",
+      "Nacpan Beach"
+    ],
+    "unsplashQuery": "el nido palawan lagoon",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "siem-reap-cambodia",
+    "name": "Siem Reap",
+    "country": "Cambodia",
+    "region": "southeast-asia",
+    "description": "Gateway to the awe-inspiring ruins of Angkor Wat, the world's largest religious monument.",
+    "climate": "tropical",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 22,
+      "mid": 55,
+      "luxury": 170
+    },
+    "flightEstimateUSD": {
+      "fromUS": 800,
+      "fromEurope": 600,
+      "fromAsia": 200
+    },
+    "activities": [
+      "history",
+      "culture",
+      "food"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Angkor Wat sunrise",
+      "Ta Prohm temple",
+      "Pub Street"
+    ],
+    "unsplashQuery": "angkor wat cambodia",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "tokyo-japan",
+    "name": "Tokyo",
+    "country": "Japan",
+    "region": "east-asia",
+    "description": "Futuristic neon-lit metropolis where ancient shrines sit beside cutting-edge technology.",
+    "climate": "mild",
+    "bestMonths": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "budgetPerDayUSD": {
+      "budget": 50,
+      "mid": 120,
+      "luxury": 350
+    },
+    "flightEstimateUSD": {
+      "fromUS": 700,
+      "fromEurope": 600,
+      "fromAsia": 250
+    },
+    "activities": [
+      "food",
+      "culture",
+      "nightlife"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "family"
+    ],
+    "highlights": [
+      "Shibuya Crossing",
+      "Tsukiji Outer Market",
+      "Meiji Shrine"
+    ],
+    "unsplashQuery": "tokyo japan shibuya",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1480796927426-f609979314bd?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "kyoto-japan",
+    "name": "Kyoto",
+    "country": "Japan",
+    "region": "east-asia",
+    "description": "Timeless city of over a thousand temples, bamboo groves, and exquisite geisha districts.",
+    "climate": "mild",
+    "bestMonths": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "budgetPerDayUSD": {
+      "budget": 50,
+      "mid": 120,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 750,
+      "fromEurope": 620,
+      "fromAsia": 270
+    },
+    "activities": [
+      "culture",
+      "history",
+      "nature"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "family"
+    ],
+    "highlights": [
+      "Fushimi Inari gates",
+      "Arashiyama Bamboo Grove",
+      "Kinkaku-ji"
+    ],
+    "unsplashQuery": "kyoto japan temple",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "seoul-south-korea",
+    "name": "Seoul",
+    "country": "South Korea",
+    "region": "east-asia",
+    "description": "K-pop capital blending royal palaces, dazzling street fashion, and legendary food markets.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 45,
+      "mid": 100,
+      "luxury": 300
+    },
+    "flightEstimateUSD": {
+      "fromUS": 650,
+      "fromEurope": 550,
+      "fromAsia": 200
+    },
+    "activities": [
+      "food",
+      "culture",
+      "nightlife",
+      "history"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "backpacker"
+    ],
+    "highlights": [
+      "Gyeongbokgung Palace",
+      "Myeongdong shopping",
+      "Bukchon Hanok Village"
+    ],
+    "unsplashQuery": "seoul south korea palace",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "hong-kong-china",
+    "name": "Hong Kong",
+    "country": "China",
+    "region": "east-asia",
+    "description": "Towering skyline meets dim sum parlors and dramatic harbor views at every turn.",
+    "climate": "tropical",
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 55,
+      "mid": 130,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 650,
+      "fromEurope": 500,
+      "fromAsia": 150
+    },
+    "activities": [
+      "food",
+      "culture",
+      "nightlife"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "family"
+    ],
+    "highlights": [
+      "Victoria Peak",
+      "Star Ferry",
+      "Temple Street Night Market"
+    ],
+    "unsplashQuery": "hong kong skyline night",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "beijing-china",
+    "name": "Beijing",
+    "country": "China",
+    "region": "east-asia",
+    "description": "Imperial capital where the Great Wall and Forbidden City guard millennia of history.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 35,
+      "mid": 90,
+      "luxury": 280
+    },
+    "flightEstimateUSD": {
+      "fromUS": 600,
+      "fromEurope": 500,
+      "fromAsia": 180
+    },
+    "activities": [
+      "history",
+      "culture",
+      "food"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "family"
+    ],
+    "highlights": [
+      "Great Wall at Mutianyu",
+      "Forbidden City",
+      "Hutong alleys"
+    ],
+    "unsplashQuery": "beijing great wall china",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "taipei-taiwan",
+    "name": "Taipei",
+    "country": "Taiwan",
+    "region": "east-asia",
+    "description": "Night market paradise with stunning mountain hikes and some of Asia's best street food.",
+    "climate": "tropical",
+    "bestMonths": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "budgetPerDayUSD": {
+      "budget": 35,
+      "mid": 80,
+      "luxury": 220
+    },
+    "flightEstimateUSD": {
+      "fromUS": 650,
+      "fromEurope": 550,
+      "fromAsia": 180
+    },
+    "activities": [
+      "food",
+      "culture",
+      "nature",
+      "nightlife"
+    ],
+    "travelStyle": [
+      "solo",
+      "backpacker",
+      "couple"
+    ],
+    "highlights": [
+      "Taipei 101",
+      "Shilin Night Market",
+      "Jiufen Old Street"
+    ],
+    "unsplashQuery": "taipei taiwan night market",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1470004914212-05527e49370b?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "rajasthan-india",
+    "name": "Rajasthan",
+    "country": "India",
+    "region": "south-asia",
+    "description": "Desert land of ornate palaces, vibrant bazaars, and the pink-walled city of Jaipur.",
+    "climate": "dry",
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 20,
+      "mid": 55,
+      "luxury": 200
+    },
+    "flightEstimateUSD": {
+      "fromUS": 700,
+      "fromEurope": 450,
+      "fromAsia": 250
+    },
+    "activities": [
+      "culture",
+      "history",
+      "adventure"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "couple",
+      "solo"
+    ],
+    "highlights": [
+      "Amber Fort",
+      "Thar Desert camel trek",
+      "Udaipur lake palaces"
+    ],
+    "unsplashQuery": "rajasthan india palace",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "kerala-india",
+    "name": "Kerala",
+    "country": "India",
+    "region": "south-asia",
+    "description": "Emerald backwaters, spice plantations, and Ayurvedic retreats along a tropical coast.",
+    "climate": "tropical",
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 20,
+      "mid": 50,
+      "luxury": 180
+    },
+    "flightEstimateUSD": {
+      "fromUS": 750,
+      "fromEurope": 500,
+      "fromAsia": 250
+    },
+    "activities": [
+      "wellness",
+      "nature",
+      "culture",
+      "food"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Alleppey houseboat",
+      "Munnar tea plantations",
+      "Ayurvedic spa retreats"
+    ],
+    "unsplashQuery": "kerala india backwaters",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "kathmandu-nepal",
+    "name": "Kathmandu",
+    "country": "Nepal",
+    "region": "south-asia",
+    "description": "Himalayan gateway city of ancient stupas, prayer flags, and trekking adventure.",
+    "climate": "mild",
+    "bestMonths": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "budgetPerDayUSD": {
+      "budget": 20,
+      "mid": 50,
+      "luxury": 150
+    },
+    "flightEstimateUSD": {
+      "fromUS": 800,
+      "fromEurope": 550,
+      "fromAsia": 300
+    },
+    "activities": [
+      "adventure",
+      "culture",
+      "history"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Boudhanath Stupa",
+      "Everest Base Camp trek",
+      "Durbar Square"
+    ],
+    "unsplashQuery": "kathmandu nepal stupa",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "sri-lanka",
+    "name": "Sri Lanka",
+    "country": "Sri Lanka",
+    "region": "south-asia",
+    "description": "Teardrop island of misty tea hills, ancient ruins, and golden beaches with surf.",
+    "climate": "tropical",
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "budgetPerDayUSD": {
+      "budget": 25,
+      "mid": 60,
+      "luxury": 180
+    },
+    "flightEstimateUSD": {
+      "fromUS": 800,
+      "fromEurope": 500,
+      "fromAsia": 250
+    },
+    "activities": [
+      "nature",
+      "culture",
+      "beach",
+      "adventure"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "couple",
+      "solo"
+    ],
+    "highlights": [
+      "Sigiriya Rock Fortress",
+      "Ella train ride",
+      "Mirissa whale watching"
+    ],
+    "unsplashQuery": "sri lanka sigiriya",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1588258219511-64eb629cb833?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "maldives",
+    "name": "Maldives",
+    "country": "Maldives",
+    "region": "south-asia",
+    "description": "Overwater villas floating above crystalline turquoise lagoons on a private atoll.",
+    "climate": "tropical",
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      12
+    ],
+    "budgetPerDayUSD": {
+      "budget": 80,
+      "mid": 250,
+      "luxury": 800
+    },
+    "flightEstimateUSD": {
+      "fromUS": 900,
+      "fromEurope": 650,
+      "fromAsia": 350
+    },
+    "activities": [
+      "beach",
+      "wellness",
+      "nature"
+    ],
+    "travelStyle": [
+      "luxury",
+      "couple"
+    ],
+    "highlights": [
+      "Overwater bungalows",
+      "Snorkeling with mantas",
+      "Sunset dolphin cruises"
+    ],
+    "unsplashQuery": "maldives overwater villa",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "paris-france",
+    "name": "Paris",
+    "country": "France",
+    "region": "europe",
+    "description": "The City of Light enchants with iconic landmarks, world-class art, and perfect pastries.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 70,
+      "mid": 160,
+      "luxury": 450
+    },
+    "flightEstimateUSD": {
+      "fromUS": 500,
+      "fromEurope": 100,
+      "fromAsia": 550
+    },
+    "activities": [
+      "culture",
+      "food",
+      "history"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "family"
+    ],
+    "highlights": [
+      "Eiffel Tower",
+      "Louvre Museum",
+      "Montmartre cafes"
+    ],
+    "unsplashQuery": "paris france eiffel tower",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "rome-italy",
+    "name": "Rome",
+    "country": "Italy",
+    "region": "europe",
+    "description": "Eternal city layered with ancient ruins, Renaissance art, and unforgettable Italian cuisine.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 60,
+      "mid": 140,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 500,
+      "fromEurope": 80,
+      "fromAsia": 550
+    },
+    "activities": [
+      "history",
+      "food",
+      "culture"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "family"
+    ],
+    "highlights": [
+      "Colosseum",
+      "Vatican Museums",
+      "Trastevere neighborhood"
+    ],
+    "unsplashQuery": "rome italy colosseum",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "barcelona-spain",
+    "name": "Barcelona",
+    "country": "Spain",
+    "region": "europe",
+    "description": "Gaudi's surreal architecture meets Mediterranean beaches and a legendary tapas scene.",
+    "climate": "mild",
+    "bestMonths": [
+      5,
+      6,
+      7,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 55,
+      "mid": 130,
+      "luxury": 350
+    },
+    "flightEstimateUSD": {
+      "fromUS": 480,
+      "fromEurope": 70,
+      "fromAsia": 550
+    },
+    "activities": [
+      "food",
+      "culture",
+      "beach",
+      "nightlife"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Sagrada Familia",
+      "La Boqueria Market",
+      "Park Guell"
+    ],
+    "unsplashQuery": "barcelona spain sagrada familia",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1585208798174-6cedd86e019a?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "london-uk",
+    "name": "London",
+    "country": "United Kingdom",
+    "region": "europe",
+    "description": "Historic royal capital where centuries-old pubs neighbor world-renowned museums and theater.",
+    "climate": "mild",
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "budgetPerDayUSD": {
+      "budget": 70,
+      "mid": 170,
+      "luxury": 500
+    },
+    "flightEstimateUSD": {
+      "fromUS": 450,
+      "fromEurope": 80,
+      "fromAsia": 500
+    },
+    "activities": [
+      "culture",
+      "history",
+      "food",
+      "nightlife"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "family"
+    ],
+    "highlights": [
+      "Tower of London",
+      "British Museum",
+      "West End theatre"
+    ],
+    "unsplashQuery": "london england big ben",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "amsterdam-netherlands",
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "region": "europe",
+    "description": "Canal-laced city of master paintings, cycling culture, and famously free-spirited nightlife.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "budgetPerDayUSD": {
+      "budget": 60,
+      "mid": 150,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 450,
+      "fromEurope": 70,
+      "fromAsia": 520
+    },
+    "activities": [
+      "culture",
+      "nightlife",
+      "history"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "backpacker"
+    ],
+    "highlights": [
+      "Rijksmuseum",
+      "Anne Frank House",
+      "Jordaan neighborhood"
+    ],
+    "unsplashQuery": "amsterdam netherlands canals",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "santorini-greece",
+    "name": "Santorini",
+    "country": "Greece",
+    "region": "europe",
+    "description": "Whitewashed clifftop villages overlooking the deep blue caldera of a sunken volcano.",
+    "climate": "mild",
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 60,
+      "mid": 150,
+      "luxury": 500
+    },
+    "flightEstimateUSD": {
+      "fromUS": 600,
+      "fromEurope": 120,
+      "fromAsia": 600
+    },
+    "activities": [
+      "beach",
+      "food",
+      "culture"
+    ],
+    "travelStyle": [
+      "couple",
+      "luxury",
+      "solo"
+    ],
+    "highlights": [
+      "Oia sunset",
+      "Red Beach",
+      "Wine tasting tours"
+    ],
+    "unsplashQuery": "santorini greece blue dome",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "prague-czech-republic",
+    "name": "Prague",
+    "country": "Czech Republic",
+    "region": "europe",
+    "description": "Fairy-tale spires, cobblestone lanes, and some of Europe's finest beer at bargain prices.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 35,
+      "mid": 80,
+      "luxury": 220
+    },
+    "flightEstimateUSD": {
+      "fromUS": 500,
+      "fromEurope": 60,
+      "fromAsia": 550
+    },
+    "activities": [
+      "history",
+      "culture",
+      "nightlife",
+      "food"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "couple",
+      "solo"
+    ],
+    "highlights": [
+      "Charles Bridge",
+      "Prague Castle",
+      "Old Town Square"
+    ],
+    "unsplashQuery": "prague czech republic castle",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1541849546-216549ae216d?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "dubrovnik-croatia",
+    "name": "Dubrovnik",
+    "country": "Croatia",
+    "region": "europe",
+    "description": "Walled medieval city perched above the sparkling Adriatic, a real-life Game of Thrones set.",
+    "climate": "mild",
+    "bestMonths": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 45,
+      "mid": 110,
+      "luxury": 300
+    },
+    "flightEstimateUSD": {
+      "fromUS": 550,
+      "fromEurope": 90,
+      "fromAsia": 600
+    },
+    "activities": [
+      "history",
+      "beach",
+      "culture"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "family"
+    ],
+    "highlights": [
+      "City walls walk",
+      "Lokrum Island",
+      "Cable car panorama"
+    ],
+    "unsplashQuery": "dubrovnik croatia old town",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1555990793-da11153b2473?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "reykjavik-iceland",
+    "name": "Reykjavik",
+    "country": "Iceland",
+    "region": "europe",
+    "description": "Gateway to volcanoes, glaciers, and the Northern Lights on an otherworldly island.",
+    "climate": "cold",
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "budgetPerDayUSD": {
+      "budget": 80,
+      "mid": 200,
+      "luxury": 500
+    },
+    "flightEstimateUSD": {
+      "fromUS": 400,
+      "fromEurope": 150,
+      "fromAsia": 700
+    },
+    "activities": [
+      "nature",
+      "adventure",
+      "wellness"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "luxury"
+    ],
+    "highlights": [
+      "Golden Circle",
+      "Blue Lagoon",
+      "Northern Lights"
+    ],
+    "unsplashQuery": "iceland northern lights",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1504829857797-ddff29c27927?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "lisbon-portugal",
+    "name": "Lisbon",
+    "country": "Portugal",
+    "region": "europe",
+    "description": "Sun-drenched hillside capital of pastel buildings, tram rides, and heavenly custard tarts.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 45,
+      "mid": 100,
+      "luxury": 280
+    },
+    "flightEstimateUSD": {
+      "fromUS": 450,
+      "fromEurope": 70,
+      "fromAsia": 600
+    },
+    "activities": [
+      "food",
+      "culture",
+      "nightlife",
+      "history"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Belem Tower",
+      "Tram 28",
+      "Time Out Market"
+    ],
+    "unsplashQuery": "lisbon portugal tram",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1585208798174-6cedd86e019a?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "swiss-alps-switzerland",
+    "name": "Swiss Alps",
+    "country": "Switzerland",
+    "region": "europe",
+    "description": "Jaw-dropping Alpine peaks, chocolate-box villages, and world-class skiing year-round.",
+    "climate": "cold",
+    "bestMonths": [
+      6,
+      7,
+      8,
+      12,
+      1,
+      2
+    ],
+    "budgetPerDayUSD": {
+      "budget": 80,
+      "mid": 200,
+      "luxury": 600
+    },
+    "flightEstimateUSD": {
+      "fromUS": 550,
+      "fromEurope": 80,
+      "fromAsia": 600
+    },
+    "activities": [
+      "adventure",
+      "nature",
+      "wellness"
+    ],
+    "travelStyle": [
+      "couple",
+      "luxury",
+      "family"
+    ],
+    "highlights": [
+      "Jungfrau region",
+      "Zermatt and the Matterhorn",
+      "Glacier Express train"
+    ],
+    "unsplashQuery": "swiss alps mountains village",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "istanbul-turkey",
+    "name": "Istanbul",
+    "country": "Turkey",
+    "region": "europe",
+    "description": "Straddling two continents with Byzantine domes, bustling bazaars, and legendary kebabs.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 30,
+      "mid": 70,
+      "luxury": 200
+    },
+    "flightEstimateUSD": {
+      "fromUS": 550,
+      "fromEurope": 100,
+      "fromAsia": 400
+    },
+    "activities": [
+      "history",
+      "food",
+      "culture"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "backpacker"
+    ],
+    "highlights": [
+      "Hagia Sophia",
+      "Grand Bazaar",
+      "Bosphorus cruise"
+    ],
+    "unsplashQuery": "istanbul turkey mosque",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "new-york-city-usa",
+    "name": "New York City",
+    "country": "USA",
+    "region": "north-america",
+    "description": "The city that never sleeps, packed with Broadway shows, iconic skyline, and global cuisine.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 80,
+      "mid": 180,
+      "luxury": 500
+    },
+    "flightEstimateUSD": {
+      "fromUS": 200,
+      "fromEurope": 400,
+      "fromAsia": 650
+    },
+    "activities": [
+      "culture",
+      "food",
+      "nightlife",
+      "history"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "family"
+    ],
+    "highlights": [
+      "Central Park",
+      "Statue of Liberty",
+      "Times Square"
+    ],
+    "unsplashQuery": "new york city skyline manhattan",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "hawaii-usa",
+    "name": "Hawaii",
+    "country": "USA",
+    "region": "north-america",
+    "description": "Volcanic islands of dramatic cliffs, rainbow beaches, and warm aloha spirit.",
+    "climate": "tropical",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "budgetPerDayUSD": {
+      "budget": 80,
+      "mid": 180,
+      "luxury": 500
+    },
+    "flightEstimateUSD": {
+      "fromUS": 350,
+      "fromEurope": 700,
+      "fromAsia": 500
+    },
+    "activities": [
+      "beach",
+      "nature",
+      "adventure",
+      "wellness"
+    ],
+    "travelStyle": [
+      "couple",
+      "family",
+      "luxury"
+    ],
+    "highlights": [
+      "Na Pali Coast",
+      "Waikiki Beach",
+      "Haleakala sunrise"
+    ],
+    "unsplashQuery": "hawaii beach napali coast",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "banff-canada",
+    "name": "Banff",
+    "country": "Canada",
+    "region": "north-america",
+    "description": "Turquoise glacier lakes and towering Rockies in Canada's most stunning national park.",
+    "climate": "cold",
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9,
+      12,
+      1,
+      2
+    ],
+    "budgetPerDayUSD": {
+      "budget": 70,
+      "mid": 150,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 300,
+      "fromEurope": 500,
+      "fromAsia": 600
+    },
+    "activities": [
+      "nature",
+      "adventure",
+      "wellness"
+    ],
+    "travelStyle": [
+      "couple",
+      "family",
+      "solo"
+    ],
+    "highlights": [
+      "Lake Louise",
+      "Moraine Lake",
+      "Banff Gondola"
+    ],
+    "unsplashQuery": "banff lake louise canada",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "mexico-city-mexico",
+    "name": "Mexico City",
+    "country": "Mexico",
+    "region": "north-america",
+    "description": "Vibrant mega-city of Aztec ruins, world-class museums, and the best tacos on earth.",
+    "climate": "mild",
+    "bestMonths": [
+      3,
+      4,
+      5,
+      10,
+      11,
+      12
+    ],
+    "budgetPerDayUSD": {
+      "budget": 35,
+      "mid": 80,
+      "luxury": 250
+    },
+    "flightEstimateUSD": {
+      "fromUS": 250,
+      "fromEurope": 500,
+      "fromAsia": 700
+    },
+    "activities": [
+      "food",
+      "culture",
+      "history"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "backpacker"
+    ],
+    "highlights": [
+      "Teotihuacan pyramids",
+      "Chapultepec Castle",
+      "Roma Norte neighborhood"
+    ],
+    "unsplashQuery": "mexico city palacio bellas artes",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1518659526054-190340b32735?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "san-francisco-usa",
+    "name": "San Francisco",
+    "country": "USA",
+    "region": "north-america",
+    "description": "Fog-kissed city of the Golden Gate, cable cars, and legendary Chinatown dim sum.",
+    "climate": "mild",
+    "bestMonths": [
+      9,
+      10,
+      5,
+      6
+    ],
+    "budgetPerDayUSD": {
+      "budget": 80,
+      "mid": 180,
+      "luxury": 500
+    },
+    "flightEstimateUSD": {
+      "fromUS": 200,
+      "fromEurope": 500,
+      "fromAsia": 550
+    },
+    "activities": [
+      "food",
+      "culture",
+      "nature"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "family"
+    ],
+    "highlights": [
+      "Golden Gate Bridge",
+      "Alcatraz Island",
+      "Fishermans Wharf"
+    ],
+    "unsplashQuery": "san francisco golden gate bridge",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "vancouver-canada",
+    "name": "Vancouver",
+    "country": "Canada",
+    "region": "north-america",
+    "description": "Mountains-meet-ocean city with incredible sushi, craft beer, and year-round outdoor access.",
+    "climate": "mild",
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "budgetPerDayUSD": {
+      "budget": 65,
+      "mid": 150,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 250,
+      "fromEurope": 500,
+      "fromAsia": 450
+    },
+    "activities": [
+      "nature",
+      "food",
+      "adventure"
+    ],
+    "travelStyle": [
+      "couple",
+      "family",
+      "solo"
+    ],
+    "highlights": [
+      "Stanley Park",
+      "Grouse Mountain",
+      "Granville Island Market"
+    ],
+    "unsplashQuery": "vancouver canada mountains",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1559511260-66a654ae982a?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "costa-rica",
+    "name": "Costa Rica",
+    "country": "Costa Rica",
+    "region": "central-america",
+    "description": "Lush rainforests, active volcanoes, and both Pacific and Caribbean beaches in one small country.",
+    "climate": "tropical",
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "budgetPerDayUSD": {
+      "budget": 40,
+      "mid": 90,
+      "luxury": 280
+    },
+    "flightEstimateUSD": {
+      "fromUS": 350,
+      "fromEurope": 600,
+      "fromAsia": 800
+    },
+    "activities": [
+      "nature",
+      "adventure",
+      "beach",
+      "wellness"
+    ],
+    "travelStyle": [
+      "couple",
+      "family",
+      "solo"
+    ],
+    "highlights": [
+      "Arenal Volcano",
+      "Manuel Antonio",
+      "Monteverde cloud forest"
+    ],
+    "unsplashQuery": "costa rica rainforest",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "antigua-guatemala",
+    "name": "Antigua",
+    "country": "Guatemala",
+    "region": "central-america",
+    "description": "Colonial gem ringed by volcanoes with cobblestone streets and vibrant indigenous markets.",
+    "climate": "mild",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "budgetPerDayUSD": {
+      "budget": 30,
+      "mid": 65,
+      "luxury": 180
+    },
+    "flightEstimateUSD": {
+      "fromUS": 350,
+      "fromEurope": 600,
+      "fromAsia": 850
+    },
+    "activities": [
+      "culture",
+      "history",
+      "adventure",
+      "food"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Acatenango volcano hike",
+      "Santa Catalina Arch",
+      "Coffee plantation tours"
+    ],
+    "unsplashQuery": "antigua guatemala volcano",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1594498653385-d5172c532c00?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "panama-city-panama",
+    "name": "Panama City",
+    "country": "Panama",
+    "region": "central-america",
+    "description": "Modern skyline meets colonial Casco Viejo and the engineering marvel of the Panama Canal.",
+    "climate": "tropical",
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "budgetPerDayUSD": {
+      "budget": 40,
+      "mid": 90,
+      "luxury": 250
+    },
+    "flightEstimateUSD": {
+      "fromUS": 300,
+      "fromEurope": 550,
+      "fromAsia": 850
+    },
+    "activities": [
+      "culture",
+      "history",
+      "nightlife",
+      "nature"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "backpacker"
+    ],
+    "highlights": [
+      "Panama Canal locks",
+      "Casco Viejo",
+      "San Blas Islands day trip"
+    ],
+    "unsplashQuery": "panama city skyline canal",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1565214975484-3cfa9e56f914?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "buenos-aires-argentina",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "region": "south-america",
+    "description": "Passionate tango capital with grand boulevards, legendary steak, and all-night milongas.",
+    "climate": "mild",
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "budgetPerDayUSD": {
+      "budget": 30,
+      "mid": 70,
+      "luxury": 220
+    },
+    "flightEstimateUSD": {
+      "fromUS": 600,
+      "fromEurope": 650,
+      "fromAsia": 900
+    },
+    "activities": [
+      "food",
+      "culture",
+      "nightlife"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "backpacker"
+    ],
+    "highlights": [
+      "La Boca neighborhood",
+      "San Telmo market",
+      "Recoleta Cemetery"
+    ],
+    "unsplashQuery": "buenos aires argentina la boca",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1589909202802-8f4aadce1849?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "rio-de-janeiro-brazil",
+    "name": "Rio de Janeiro",
+    "country": "Brazil",
+    "region": "south-america",
+    "description": "Iconic city of Carnival, golden beaches, and Christ the Redeemer watching from above.",
+    "climate": "tropical",
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 35,
+      "mid": 80,
+      "luxury": 280
+    },
+    "flightEstimateUSD": {
+      "fromUS": 550,
+      "fromEurope": 600,
+      "fromAsia": 900
+    },
+    "activities": [
+      "beach",
+      "culture",
+      "nightlife",
+      "nature"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Christ the Redeemer",
+      "Copacabana Beach",
+      "Sugarloaf Mountain"
+    ],
+    "unsplashQuery": "rio de janeiro brazil christ redeemer",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "cusco-peru",
+    "name": "Cusco",
+    "country": "Peru",
+    "region": "south-america",
+    "description": "Ancient Inca capital perched high in the Andes, gateway to the legendary Machu Picchu.",
+    "climate": "mild",
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "budgetPerDayUSD": {
+      "budget": 25,
+      "mid": 65,
+      "luxury": 200
+    },
+    "flightEstimateUSD": {
+      "fromUS": 500,
+      "fromEurope": 600,
+      "fromAsia": 900
+    },
+    "activities": [
+      "history",
+      "culture",
+      "adventure"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Machu Picchu",
+      "Sacred Valley",
+      "San Pedro Market"
+    ],
+    "unsplashQuery": "machu picchu peru",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "cartagena-colombia",
+    "name": "Cartagena",
+    "country": "Colombia",
+    "region": "south-america",
+    "description": "Pastel-colored colonial walled city on the Caribbean with vibrant salsa and street food.",
+    "climate": "tropical",
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "budgetPerDayUSD": {
+      "budget": 30,
+      "mid": 70,
+      "luxury": 220
+    },
+    "flightEstimateUSD": {
+      "fromUS": 350,
+      "fromEurope": 550,
+      "fromAsia": 900
+    },
+    "activities": [
+      "culture",
+      "beach",
+      "food",
+      "nightlife"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Walled Old City",
+      "Rosario Islands",
+      "Getsemani street art"
+    ],
+    "unsplashQuery": "cartagena colombia colonial",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1533050487297-09b450131914?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "patagonia-argentina",
+    "name": "Patagonia",
+    "country": "Argentina",
+    "region": "south-america",
+    "description": "Untamed wilderness of glaciers, granite spires, and windswept steppe at the end of the world.",
+    "climate": "cold",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 45,
+      "mid": 120,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 700,
+      "fromEurope": 750,
+      "fromAsia": 1000
+    },
+    "activities": [
+      "adventure",
+      "nature"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "luxury"
+    ],
+    "highlights": [
+      "Torres del Paine",
+      "Perito Moreno Glacier",
+      "El Chalten trekking"
+    ],
+    "unsplashQuery": "patagonia torres del paine",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "galapagos-ecuador",
+    "name": "Galapagos Islands",
+    "country": "Ecuador",
+    "region": "south-america",
+    "description": "Remote volcanic archipelago where fearless wildlife inspired Darwin's theory of evolution.",
+    "climate": "tropical",
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9,
+      12,
+      1
+    ],
+    "budgetPerDayUSD": {
+      "budget": 80,
+      "mid": 200,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 600,
+      "fromEurope": 700,
+      "fromAsia": 950
+    },
+    "activities": [
+      "nature",
+      "adventure",
+      "beach"
+    ],
+    "travelStyle": [
+      "couple",
+      "family",
+      "luxury"
+    ],
+    "highlights": [
+      "Giant tortoise encounters",
+      "Snorkeling with sea lions",
+      "Blue-footed boobies"
+    ],
+    "unsplashQuery": "galapagos islands tortoise",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1544979590-37e9b47eb705?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "medellin-colombia",
+    "name": "Medellin",
+    "country": "Colombia",
+    "region": "south-america",
+    "description": "City of eternal spring nestled in lush mountains with thriving art and cafe culture.",
+    "climate": "mild",
+    "bestMonths": [
+      1,
+      2,
+      3,
+      7,
+      8,
+      12
+    ],
+    "budgetPerDayUSD": {
+      "budget": 25,
+      "mid": 60,
+      "luxury": 150
+    },
+    "flightEstimateUSD": {
+      "fromUS": 300,
+      "fromEurope": 550,
+      "fromAsia": 900
+    },
+    "activities": [
+      "culture",
+      "food",
+      "nightlife",
+      "nature"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Comuna 13 street art",
+      "Guatape day trip",
+      "El Poblado cafes"
+    ],
+    "unsplashQuery": "medellin colombia cityscape",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1568632234157-ce7aecd03d0d?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "barbados",
+    "name": "Barbados",
+    "country": "Barbados",
+    "region": "caribbean",
+    "description": "Coral island of pink-sand beaches, rum distilleries, and warm Bajan hospitality.",
+    "climate": "tropical",
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "budgetPerDayUSD": {
+      "budget": 60,
+      "mid": 150,
+      "luxury": 450
+    },
+    "flightEstimateUSD": {
+      "fromUS": 350,
+      "fromEurope": 500,
+      "fromAsia": 900
+    },
+    "activities": [
+      "beach",
+      "food",
+      "culture"
+    ],
+    "travelStyle": [
+      "couple",
+      "luxury",
+      "family"
+    ],
+    "highlights": [
+      "Crane Beach",
+      "Mount Gay Rum tour",
+      "Oistins Fish Fry"
+    ],
+    "unsplashQuery": "barbados beach caribbean",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "jamaica",
+    "name": "Jamaica",
+    "country": "Jamaica",
+    "region": "caribbean",
+    "description": "Reggae rhythms, jerk chicken smoke, and lush Blue Mountains above Caribbean turquoise.",
+    "climate": "tropical",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "budgetPerDayUSD": {
+      "budget": 50,
+      "mid": 130,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 300,
+      "fromEurope": 500,
+      "fromAsia": 900
+    },
+    "activities": [
+      "beach",
+      "culture",
+      "food",
+      "adventure"
+    ],
+    "travelStyle": [
+      "couple",
+      "family",
+      "backpacker"
+    ],
+    "highlights": [
+      "Dunns River Falls",
+      "Blue Mountains coffee",
+      "Negril Seven Mile Beach"
+    ],
+    "unsplashQuery": "jamaica beach caribbean",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "turks-and-caicos",
+    "name": "Turks and Caicos",
+    "country": "Turks and Caicos",
+    "region": "caribbean",
+    "description": "Powder-white sands and impossibly clear waters on an exclusive island escape.",
+    "climate": "tropical",
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "budgetPerDayUSD": {
+      "budget": 80,
+      "mid": 200,
+      "luxury": 800
+    },
+    "flightEstimateUSD": {
+      "fromUS": 350,
+      "fromEurope": 550,
+      "fromAsia": 950
+    },
+    "activities": [
+      "beach",
+      "wellness",
+      "nature"
+    ],
+    "travelStyle": [
+      "luxury",
+      "couple"
+    ],
+    "highlights": [
+      "Grace Bay Beach",
+      "Chalk Sound kayaking",
+      "Conch farm tour"
+    ],
+    "unsplashQuery": "turks caicos beach",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "puerto-rico",
+    "name": "Puerto Rico",
+    "country": "Puerto Rico",
+    "region": "caribbean",
+    "description": "Colorful Old San Juan, bioluminescent bays, and tropical forests without needing a passport.",
+    "climate": "tropical",
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "budgetPerDayUSD": {
+      "budget": 55,
+      "mid": 130,
+      "luxury": 350
+    },
+    "flightEstimateUSD": {
+      "fromUS": 200,
+      "fromEurope": 450,
+      "fromAsia": 850
+    },
+    "activities": [
+      "beach",
+      "culture",
+      "nature",
+      "nightlife"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "family"
+    ],
+    "highlights": [
+      "Old San Juan",
+      "El Yunque Rainforest",
+      "Bioluminescent bay"
+    ],
+    "unsplashQuery": "puerto rico old san juan",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1580828343064-fde4fc206bc6?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "dubai-uae",
+    "name": "Dubai",
+    "country": "UAE",
+    "region": "middle-east",
+    "description": "Futuristic desert metropolis of record-breaking skyscrapers, luxury malls, and gold souks.",
+    "climate": "dry",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 50,
+      "mid": 150,
+      "luxury": 600
+    },
+    "flightEstimateUSD": {
+      "fromUS": 600,
+      "fromEurope": 350,
+      "fromAsia": 300
+    },
+    "activities": [
+      "culture",
+      "food",
+      "nightlife",
+      "adventure"
+    ],
+    "travelStyle": [
+      "luxury",
+      "couple",
+      "family"
+    ],
+    "highlights": [
+      "Burj Khalifa",
+      "Desert safari",
+      "Dubai Marina"
+    ],
+    "unsplashQuery": "dubai skyline burj khalifa",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "jordan-petra",
+    "name": "Petra & Wadi Rum",
+    "country": "Jordan",
+    "region": "middle-east",
+    "description": "Rose-red city carved into sandstone cliffs and Mars-like desert valleys under starry skies.",
+    "climate": "dry",
+    "bestMonths": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "budgetPerDayUSD": {
+      "budget": 40,
+      "mid": 100,
+      "luxury": 300
+    },
+    "flightEstimateUSD": {
+      "fromUS": 650,
+      "fromEurope": 300,
+      "fromAsia": 400
+    },
+    "activities": [
+      "history",
+      "adventure",
+      "culture"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Petra Treasury",
+      "Wadi Rum jeep tour",
+      "Dead Sea float"
+    ],
+    "unsplashQuery": "petra jordan treasury",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "oman",
+    "name": "Oman",
+    "country": "Oman",
+    "region": "middle-east",
+    "description": "Dramatic fjords, vast deserts, and ancient frankincense ports untouched by mass tourism.",
+    "climate": "dry",
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 45,
+      "mid": 120,
+      "luxury": 350
+    },
+    "flightEstimateUSD": {
+      "fromUS": 700,
+      "fromEurope": 350,
+      "fromAsia": 300
+    },
+    "activities": [
+      "adventure",
+      "nature",
+      "culture",
+      "history"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "luxury"
+    ],
+    "highlights": [
+      "Musandam fjords",
+      "Wahiba Sands desert camp",
+      "Sultan Qaboos Grand Mosque"
+    ],
+    "unsplashQuery": "oman muscat mosque",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1597212618440-806262de4f6b?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "morocco-marrakech",
+    "name": "Marrakech",
+    "country": "Morocco",
+    "region": "africa",
+    "description": "Intoxicating medina of spice-scented souks, mosaic riads, and the Atlas Mountains beyond.",
+    "climate": "dry",
+    "bestMonths": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "budgetPerDayUSD": {
+      "budget": 30,
+      "mid": 80,
+      "luxury": 250
+    },
+    "flightEstimateUSD": {
+      "fromUS": 550,
+      "fromEurope": 150,
+      "fromAsia": 600
+    },
+    "activities": [
+      "culture",
+      "food",
+      "history",
+      "adventure"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Jemaa el-Fna square",
+      "Majorelle Garden",
+      "Atlas Mountains day trip"
+    ],
+    "unsplashQuery": "marrakech morocco medina",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1597212618440-806262de4f6b?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "cape-town-south-africa",
+    "name": "Cape Town",
+    "country": "South Africa",
+    "region": "africa",
+    "description": "Stunning city nestled between Table Mountain and two oceans with world-class wine regions.",
+    "climate": "mild",
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 35,
+      "mid": 85,
+      "luxury": 280
+    },
+    "flightEstimateUSD": {
+      "fromUS": 800,
+      "fromEurope": 550,
+      "fromAsia": 700
+    },
+    "activities": [
+      "nature",
+      "food",
+      "adventure",
+      "culture"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "luxury"
+    ],
+    "highlights": [
+      "Table Mountain",
+      "Cape Winelands",
+      "Boulders Beach penguins"
+    ],
+    "unsplashQuery": "cape town table mountain",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "serengeti-tanzania",
+    "name": "Serengeti",
+    "country": "Tanzania",
+    "region": "africa",
+    "description": "Endless golden savannah where the Great Migration thunders across the African plains.",
+    "climate": "dry",
+    "bestMonths": [
+      1,
+      2,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 50,
+      "mid": 130,
+      "luxury": 500
+    },
+    "flightEstimateUSD": {
+      "fromUS": 900,
+      "fromEurope": 600,
+      "fromAsia": 750
+    },
+    "activities": [
+      "nature",
+      "adventure"
+    ],
+    "travelStyle": [
+      "couple",
+      "luxury",
+      "family"
+    ],
+    "highlights": [
+      "Great Migration",
+      "Big Five safari",
+      "Ngorongoro Crater"
+    ],
+    "unsplashQuery": "serengeti safari tanzania",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "zanzibar-tanzania",
+    "name": "Zanzibar",
+    "country": "Tanzania",
+    "region": "africa",
+    "description": "Spice island of turquoise waters, Stone Town alleys, and some of Africa's finest beaches.",
+    "climate": "tropical",
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9,
+      1,
+      2
+    ],
+    "budgetPerDayUSD": {
+      "budget": 30,
+      "mid": 80,
+      "luxury": 300
+    },
+    "flightEstimateUSD": {
+      "fromUS": 900,
+      "fromEurope": 600,
+      "fromAsia": 700
+    },
+    "activities": [
+      "beach",
+      "culture",
+      "food"
+    ],
+    "travelStyle": [
+      "couple",
+      "backpacker",
+      "solo"
+    ],
+    "highlights": [
+      "Stone Town",
+      "Nungwi Beach",
+      "Spice farm tour"
+    ],
+    "unsplashQuery": "zanzibar beach tanzania",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "victoria-falls-zambia",
+    "name": "Victoria Falls",
+    "country": "Zambia",
+    "region": "africa",
+    "description": "The thundering smoke of the world's largest waterfall, straddling Zambia and Zimbabwe.",
+    "climate": "tropical",
+    "bestMonths": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "budgetPerDayUSD": {
+      "budget": 40,
+      "mid": 100,
+      "luxury": 350
+    },
+    "flightEstimateUSD": {
+      "fromUS": 900,
+      "fromEurope": 650,
+      "fromAsia": 800
+    },
+    "activities": [
+      "nature",
+      "adventure"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "luxury"
+    ],
+    "highlights": [
+      "Victoria Falls viewpoint",
+      "Bungee jump",
+      "Zambezi sunset cruise"
+    ],
+    "unsplashQuery": "victoria falls waterfall zambia",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "madagascar",
+    "name": "Madagascar",
+    "country": "Madagascar",
+    "region": "africa",
+    "description": "Otherworldly island of baobab avenues, lemurs, and landscapes found nowhere else on Earth.",
+    "climate": "tropical",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 25,
+      "mid": 70,
+      "luxury": 200
+    },
+    "flightEstimateUSD": {
+      "fromUS": 1000,
+      "fromEurope": 700,
+      "fromAsia": 800
+    },
+    "activities": [
+      "nature",
+      "adventure",
+      "culture"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Avenue of the Baobabs",
+      "Lemur encounters",
+      "Tsingy de Bemaraha"
+    ],
+    "unsplashQuery": "madagascar baobab trees",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "rwanda-gorillas",
+    "name": "Rwanda",
+    "country": "Rwanda",
+    "region": "africa",
+    "description": "The land of a thousand hills where rare mountain gorillas roam misty volcanic forests.",
+    "climate": "mild",
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9,
+      12,
+      1,
+      2
+    ],
+    "budgetPerDayUSD": {
+      "budget": 40,
+      "mid": 100,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 900,
+      "fromEurope": 600,
+      "fromAsia": 750
+    },
+    "activities": [
+      "nature",
+      "adventure",
+      "culture"
+    ],
+    "travelStyle": [
+      "couple",
+      "luxury",
+      "solo"
+    ],
+    "highlights": [
+      "Gorilla trekking",
+      "Volcanoes National Park",
+      "Kigali Genocide Memorial"
+    ],
+    "unsplashQuery": "rwanda gorilla volcanoes",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1504598318550-17eba1008a68?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "sydney-australia",
+    "name": "Sydney",
+    "country": "Australia",
+    "region": "oceania",
+    "description": "Harbor city of iconic sails, golden surf beaches, and a laid-back outdoor lifestyle.",
+    "climate": "mild",
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 60,
+      "mid": 150,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 800,
+      "fromEurope": 850,
+      "fromAsia": 400
+    },
+    "activities": [
+      "beach",
+      "food",
+      "culture",
+      "nature"
+    ],
+    "travelStyle": [
+      "couple",
+      "family",
+      "solo"
+    ],
+    "highlights": [
+      "Sydney Opera House",
+      "Bondi Beach",
+      "Harbor Bridge climb"
+    ],
+    "unsplashQuery": "sydney opera house australia",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "queenstown-new-zealand",
+    "name": "Queenstown",
+    "country": "New Zealand",
+    "region": "oceania",
+    "description": "Adventure capital of the world surrounded by dramatic Southern Alps and crystal lakes.",
+    "climate": "cold",
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      6,
+      7,
+      8
+    ],
+    "budgetPerDayUSD": {
+      "budget": 60,
+      "mid": 140,
+      "luxury": 380
+    },
+    "flightEstimateUSD": {
+      "fromUS": 900,
+      "fromEurope": 900,
+      "fromAsia": 500
+    },
+    "activities": [
+      "adventure",
+      "nature"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Bungee jumping",
+      "Milford Sound cruise",
+      "Remarkables ski area"
+    ],
+    "unsplashQuery": "queenstown new zealand mountains",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1504829857797-ddff29c27927?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "great-barrier-reef-australia",
+    "name": "Great Barrier Reef",
+    "country": "Australia",
+    "region": "oceania",
+    "description": "Earth's largest living structure, a kaleidoscope of coral and marine life stretching for miles.",
+    "climate": "tropical",
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 70,
+      "mid": 160,
+      "luxury": 450
+    },
+    "flightEstimateUSD": {
+      "fromUS": 850,
+      "fromEurope": 900,
+      "fromAsia": 450
+    },
+    "activities": [
+      "nature",
+      "adventure",
+      "beach"
+    ],
+    "travelStyle": [
+      "couple",
+      "family",
+      "luxury"
+    ],
+    "highlights": [
+      "Snorkeling the reef",
+      "Whitehaven Beach",
+      "Scenic helicopter flight"
+    ],
+    "unsplashQuery": "great barrier reef coral australia",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "fiji",
+    "name": "Fiji",
+    "country": "Fiji",
+    "region": "oceania",
+    "description": "Pristine South Pacific islands with warm smiles, coral reefs, and palm-fringed shores.",
+    "climate": "tropical",
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 50,
+      "mid": 130,
+      "luxury": 500
+    },
+    "flightEstimateUSD": {
+      "fromUS": 800,
+      "fromEurope": 900,
+      "fromAsia": 500
+    },
+    "activities": [
+      "beach",
+      "nature",
+      "wellness"
+    ],
+    "travelStyle": [
+      "couple",
+      "luxury",
+      "family"
+    ],
+    "highlights": [
+      "Mamanuca Islands",
+      "Kava ceremony",
+      "Cloud 9 floating bar"
+    ],
+    "unsplashQuery": "fiji islands beach",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "melbourne-australia",
+    "name": "Melbourne",
+    "country": "Australia",
+    "region": "oceania",
+    "description": "Australia's cultural capital of street art, specialty coffee, and vibrant laneway dining.",
+    "climate": "mild",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 55,
+      "mid": 140,
+      "luxury": 380
+    },
+    "flightEstimateUSD": {
+      "fromUS": 800,
+      "fromEurope": 850,
+      "fromAsia": 400
+    },
+    "activities": [
+      "food",
+      "culture",
+      "nature",
+      "nightlife"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "backpacker"
+    ],
+    "highlights": [
+      "Hosier Lane street art",
+      "Great Ocean Road",
+      "Melbourne Cricket Ground"
+    ],
+    "unsplashQuery": "melbourne australia laneways",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1514395462725-fb4566210144?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "lake-bled-slovenia",
+    "name": "Lake Bled",
+    "country": "Slovenia",
+    "region": "europe",
+    "description": "Fairy-tale Alpine lake with a tiny island church and a cliffside medieval castle.",
+    "climate": "mild",
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "budgetPerDayUSD": {
+      "budget": 35,
+      "mid": 80,
+      "luxury": 220
+    },
+    "flightEstimateUSD": {
+      "fromUS": 550,
+      "fromEurope": 80,
+      "fromAsia": 600
+    },
+    "activities": [
+      "nature",
+      "adventure",
+      "culture"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Island church boat ride",
+      "Bled Castle",
+      "Vintgar Gorge"
+    ],
+    "unsplashQuery": "lake bled slovenia",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "amalfi-coast-italy",
+    "name": "Amalfi Coast",
+    "country": "Italy",
+    "region": "europe",
+    "description": "Dramatic clifftop villages cascading toward turquoise Mediterranean waters along a winding coast.",
+    "climate": "mild",
+    "bestMonths": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 65,
+      "mid": 160,
+      "luxury": 500
+    },
+    "flightEstimateUSD": {
+      "fromUS": 550,
+      "fromEurope": 100,
+      "fromAsia": 600
+    },
+    "activities": [
+      "food",
+      "beach",
+      "culture"
+    ],
+    "travelStyle": [
+      "couple",
+      "luxury"
+    ],
+    "highlights": [
+      "Positano village",
+      "Path of the Gods hike",
+      "Ravello gardens"
+    ],
+    "unsplashQuery": "amalfi coast positano italy",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "edinburgh-scotland",
+    "name": "Edinburgh",
+    "country": "United Kingdom",
+    "region": "europe",
+    "description": "Brooding castle, cobblestone Royal Mile, and August's famous world-class festival season.",
+    "climate": "cold",
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "budgetPerDayUSD": {
+      "budget": 55,
+      "mid": 130,
+      "luxury": 350
+    },
+    "flightEstimateUSD": {
+      "fromUS": 480,
+      "fromEurope": 70,
+      "fromAsia": 550
+    },
+    "activities": [
+      "history",
+      "culture",
+      "food",
+      "nightlife"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "family"
+    ],
+    "highlights": [
+      "Edinburgh Castle",
+      "Arthurs Seat",
+      "Royal Mile whisky bars"
+    ],
+    "unsplashQuery": "edinburgh scotland castle",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "lofoten-norway",
+    "name": "Lofoten Islands",
+    "country": "Norway",
+    "region": "europe",
+    "description": "Jagged Arctic peaks rising from fjords, with red fishing cabins and midnight sun.",
+    "climate": "cold",
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "budgetPerDayUSD": {
+      "budget": 70,
+      "mid": 160,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 600,
+      "fromEurope": 150,
+      "fromAsia": 650
+    },
+    "activities": [
+      "nature",
+      "adventure"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo"
+    ],
+    "highlights": [
+      "Reine fishing village",
+      "Midnight sun kayaking",
+      "Northern Lights"
+    ],
+    "unsplashQuery": "lofoten islands norway",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1504829857797-ddff29c27927?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "new-orleans-usa",
+    "name": "New Orleans",
+    "country": "USA",
+    "region": "north-america",
+    "description": "Jazz-soaked streets, Creole feasts, and Mardi Gras spirit that pulses year-round.",
+    "climate": "tropical",
+    "bestMonths": [
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "budgetPerDayUSD": {
+      "budget": 60,
+      "mid": 140,
+      "luxury": 350
+    },
+    "flightEstimateUSD": {
+      "fromUS": 200,
+      "fromEurope": 500,
+      "fromAsia": 700
+    },
+    "activities": [
+      "food",
+      "nightlife",
+      "culture",
+      "history"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "backpacker"
+    ],
+    "highlights": [
+      "French Quarter",
+      "Frenchmen Street jazz",
+      "Beignets at Cafe Du Monde"
+    ],
+    "unsplashQuery": "new orleans french quarter",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1568454537842-d933259bb258?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "tulum-mexico",
+    "name": "Tulum",
+    "country": "Mexico",
+    "region": "north-america",
+    "description": "Bohemian beach town with clifftop Mayan ruins and cenotes hidden in the jungle.",
+    "climate": "tropical",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "budgetPerDayUSD": {
+      "budget": 45,
+      "mid": 100,
+      "luxury": 300
+    },
+    "flightEstimateUSD": {
+      "fromUS": 300,
+      "fromEurope": 500,
+      "fromAsia": 750
+    },
+    "activities": [
+      "beach",
+      "culture",
+      "wellness",
+      "adventure"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Tulum ruins",
+      "Gran Cenote swimming",
+      "Beach club scene"
+    ],
+    "unsplashQuery": "tulum mexico ruins beach",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "singapore",
+    "name": "Singapore",
+    "country": "Singapore",
+    "region": "southeast-asia",
+    "description": "Gleaming city-state where hawker centers rival Michelin restaurants and gardens touch the sky.",
+    "climate": "tropical",
+    "bestMonths": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "budgetPerDayUSD": {
+      "budget": 40,
+      "mid": 100,
+      "luxury": 300
+    },
+    "flightEstimateUSD": {
+      "fromUS": 700,
+      "fromEurope": 550,
+      "fromAsia": 150
+    },
+    "activities": [
+      "food",
+      "culture",
+      "nightlife"
+    ],
+    "travelStyle": [
+      "couple",
+      "family",
+      "solo"
+    ],
+    "highlights": [
+      "Gardens by the Bay",
+      "Hawker center food tours",
+      "Marina Bay Sands"
+    ],
+    "unsplashQuery": "singapore marina bay gardens",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "cappadocia-turkey",
+    "name": "Cappadocia",
+    "country": "Turkey",
+    "region": "europe",
+    "description": "Surreal moonscape of fairy chimneys and cave hotels, best seen from a hot air balloon.",
+    "climate": "dry",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 30,
+      "mid": 70,
+      "luxury": 200
+    },
+    "flightEstimateUSD": {
+      "fromUS": 600,
+      "fromEurope": 120,
+      "fromAsia": 400
+    },
+    "activities": [
+      "adventure",
+      "culture",
+      "history"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Hot air balloon ride",
+      "Goreme Open Air Museum",
+      "Underground cities"
+    ],
+    "unsplashQuery": "cappadocia turkey balloons",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1641128324972-af3212f0f6bd?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "bhutan",
+    "name": "Bhutan",
+    "country": "Bhutan",
+    "region": "south-asia",
+    "description": "Himalayan kingdom measuring happiness, home to cliffside monasteries and pristine forests.",
+    "climate": "cold",
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "budgetPerDayUSD": {
+      "budget": 60,
+      "mid": 130,
+      "luxury": 300
+    },
+    "flightEstimateUSD": {
+      "fromUS": 900,
+      "fromEurope": 700,
+      "fromAsia": 350
+    },
+    "activities": [
+      "culture",
+      "nature",
+      "adventure",
+      "wellness"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "luxury"
+    ],
+    "highlights": [
+      "Tigers Nest Monastery",
+      "Punakha Dzong",
+      "Phobjikha Valley"
+    ],
+    "unsplashQuery": "bhutan tigers nest monastery",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "lapland-finland",
+    "name": "Lapland",
+    "country": "Finland",
+    "region": "europe",
+    "description": "Arctic wonderland of glass igloos, husky safaris, and dancing Northern Lights.",
+    "climate": "cold",
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      6,
+      7
+    ],
+    "budgetPerDayUSD": {
+      "budget": 70,
+      "mid": 170,
+      "luxury": 450
+    },
+    "flightEstimateUSD": {
+      "fromUS": 550,
+      "fromEurope": 120,
+      "fromAsia": 600
+    },
+    "activities": [
+      "nature",
+      "adventure",
+      "wellness"
+    ],
+    "travelStyle": [
+      "couple",
+      "family",
+      "luxury"
+    ],
+    "highlights": [
+      "Northern Lights viewing",
+      "Glass igloo stay",
+      "Husky sledding"
+    ],
+    "unsplashQuery": "lapland finland northern lights",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1504829857797-ddff29c27927?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "cairo-egypt",
+    "name": "Cairo",
+    "country": "Egypt",
+    "region": "africa",
+    "description": "Ancient pyramids rising from the desert beside a chaotic, vibrant modern megacity.",
+    "climate": "dry",
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 25,
+      "mid": 70,
+      "luxury": 200
+    },
+    "flightEstimateUSD": {
+      "fromUS": 600,
+      "fromEurope": 250,
+      "fromAsia": 450
+    },
+    "activities": [
+      "history",
+      "culture",
+      "food"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Pyramids of Giza",
+      "Egyptian Museum",
+      "Khan el-Khalili bazaar"
+    ],
+    "unsplashQuery": "cairo egypt pyramids",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1597212618440-806262de4f6b?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "cuba-havana",
+    "name": "Havana",
+    "country": "Cuba",
+    "region": "caribbean",
+    "description": "Time-capsule city of vintage cars, crumbling colonial grandeur, and salsa-filled nights.",
+    "climate": "tropical",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "budgetPerDayUSD": {
+      "budget": 50,
+      "mid": 120,
+      "luxury": 300
+    },
+    "flightEstimateUSD": {
+      "fromUS": 300,
+      "fromEurope": 500,
+      "fromAsia": 900
+    },
+    "activities": [
+      "culture",
+      "history",
+      "nightlife",
+      "food"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "backpacker"
+    ],
+    "highlights": [
+      "Malecon seafront",
+      "Old Havana plazas",
+      "Classic car tour"
+    ],
+    "unsplashQuery": "havana cuba vintage cars",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1500759285222-a95626b934cb?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "lake-titicaca-bolivia",
+    "name": "Lake Titicaca",
+    "country": "Bolivia",
+    "region": "south-america",
+    "description": "World's highest navigable lake with floating reed islands and ancient Andean traditions.",
+    "climate": "cold",
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "budgetPerDayUSD": {
+      "budget": 20,
+      "mid": 50,
+      "luxury": 150
+    },
+    "flightEstimateUSD": {
+      "fromUS": 550,
+      "fromEurope": 650,
+      "fromAsia": 950
+    },
+    "activities": [
+      "culture",
+      "nature",
+      "history"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo"
+    ],
+    "highlights": [
+      "Uros floating islands",
+      "Isla del Sol",
+      "Copacabana town"
+    ],
+    "unsplashQuery": "lake titicaca bolivia",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1531761535209-180857e963b9?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "salar-de-uyuni-bolivia",
+    "name": "Salar de Uyuni",
+    "country": "Bolivia",
+    "region": "south-america",
+    "description": "Surreal mirror-flat salt flats stretching to the horizon under big Andean skies.",
+    "climate": "dry",
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "budgetPerDayUSD": {
+      "budget": 25,
+      "mid": 60,
+      "luxury": 180
+    },
+    "flightEstimateUSD": {
+      "fromUS": 550,
+      "fromEurope": 650,
+      "fromAsia": 950
+    },
+    "activities": [
+      "adventure",
+      "nature"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Mirror effect photos",
+      "Incahuasi Island cacti",
+      "Colored lagoons"
+    ],
+    "unsplashQuery": "salar de uyuni bolivia salt flat",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1504829857797-ddff29c27927?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "vietnam-ha-long-bay",
+    "name": "Ha Long Bay",
+    "country": "Vietnam",
+    "region": "southeast-asia",
+    "description": "Thousands of emerald limestone karsts rising from misty waters in a UNESCO wonder.",
+    "climate": "tropical",
+    "bestMonths": [
+      10,
+      11,
+      3,
+      4,
+      5
+    ],
+    "budgetPerDayUSD": {
+      "budget": 30,
+      "mid": 70,
+      "luxury": 200
+    },
+    "flightEstimateUSD": {
+      "fromUS": 750,
+      "fromEurope": 550,
+      "fromAsia": 200
+    },
+    "activities": [
+      "nature",
+      "adventure",
+      "beach"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Overnight junk boat cruise",
+      "Kayaking through caves",
+      "Titop Island"
+    ],
+    "unsplashQuery": "ha long bay vietnam",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "bora-bora-french-polynesia",
+    "name": "Bora Bora",
+    "country": "French Polynesia",
+    "region": "oceania",
+    "description": "Legendary turquoise lagoon circled by a coral reef beneath a dramatic volcanic peak.",
+    "climate": "tropical",
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 80,
+      "mid": 250,
+      "luxury": 800
+    },
+    "flightEstimateUSD": {
+      "fromUS": 900,
+      "fromEurope": 1000,
+      "fromAsia": 700
+    },
+    "activities": [
+      "beach",
+      "wellness",
+      "nature"
+    ],
+    "travelStyle": [
+      "luxury",
+      "couple"
+    ],
+    "highlights": [
+      "Overwater bungalow",
+      "Shark and ray snorkeling",
+      "Mount Otemanu views"
+    ],
+    "unsplashQuery": "bora bora french polynesia",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "petra-rose-city-jordan",
+    "name": "Dead Sea",
+    "country": "Jordan",
+    "region": "middle-east",
+    "description": "Earth's lowest point where you float effortlessly in hyper-saline waters beside desert cliffs.",
+    "climate": "dry",
+    "bestMonths": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "budgetPerDayUSD": {
+      "budget": 40,
+      "mid": 110,
+      "luxury": 300
+    },
+    "flightEstimateUSD": {
+      "fromUS": 650,
+      "fromEurope": 300,
+      "fromAsia": 400
+    },
+    "activities": [
+      "wellness",
+      "nature"
+    ],
+    "travelStyle": [
+      "couple",
+      "luxury",
+      "solo"
+    ],
+    "highlights": [
+      "Floating experience",
+      "Mud bath treatments",
+      "Masada sunrise hike"
+    ],
+    "unsplashQuery": "dead sea jordan",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "berlin-germany",
+    "name": "Berlin",
+    "country": "Germany",
+    "region": "europe",
+    "description": "Edgy creative capital where Cold War history meets legendary techno clubs and street art.",
+    "climate": "mild",
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "budgetPerDayUSD": {
+      "budget": 45,
+      "mid": 110,
+      "luxury": 300
+    },
+    "flightEstimateUSD": {
+      "fromUS": 450,
+      "fromEurope": 60,
+      "fromAsia": 500
+    },
+    "activities": [
+      "history",
+      "nightlife",
+      "culture",
+      "food"
+    ],
+    "travelStyle": [
+      "solo",
+      "backpacker",
+      "couple"
+    ],
+    "highlights": [
+      "Brandenburg Gate",
+      "East Side Gallery",
+      "Berghain nightclub"
+    ],
+    "unsplashQuery": "berlin germany brandenburg gate",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "colombo-sri-lanka",
+    "name": "Goa",
+    "country": "India",
+    "region": "south-asia",
+    "description": "Laid-back former Portuguese colony with golden beaches, trance parties, and spiced seafood.",
+    "climate": "tropical",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 20,
+      "mid": 50,
+      "luxury": 150
+    },
+    "flightEstimateUSD": {
+      "fromUS": 750,
+      "fromEurope": 450,
+      "fromAsia": 200
+    },
+    "activities": [
+      "beach",
+      "food",
+      "nightlife",
+      "culture"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Palolem Beach",
+      "Old Goa churches",
+      "Saturday Night Market"
+    ],
+    "unsplashQuery": "goa india beach",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "abu-dhabi-uae",
+    "name": "Abu Dhabi",
+    "country": "UAE",
+    "region": "middle-east",
+    "description": "Opulent capital with the dazzling Grand Mosque, Louvre outpost, and desert island beaches.",
+    "climate": "dry",
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 50,
+      "mid": 150,
+      "luxury": 500
+    },
+    "flightEstimateUSD": {
+      "fromUS": 600,
+      "fromEurope": 350,
+      "fromAsia": 300
+    },
+    "activities": [
+      "culture",
+      "beach",
+      "food"
+    ],
+    "travelStyle": [
+      "luxury",
+      "couple",
+      "family"
+    ],
+    "highlights": [
+      "Sheikh Zayed Grand Mosque",
+      "Louvre Abu Dhabi",
+      "Saadiyat Island Beach"
+    ],
+    "unsplashQuery": "abu dhabi grand mosque",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "vienna-austria",
+    "name": "Vienna",
+    "country": "Austria",
+    "region": "europe",
+    "description": "Imperial grandeur of palaces, Sachertorte, and classical music echoing through gilded halls.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10,
+      12
+    ],
+    "budgetPerDayUSD": {
+      "budget": 55,
+      "mid": 130,
+      "luxury": 380
+    },
+    "flightEstimateUSD": {
+      "fromUS": 500,
+      "fromEurope": 60,
+      "fromAsia": 550
+    },
+    "activities": [
+      "culture",
+      "food",
+      "history"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo",
+      "family"
+    ],
+    "highlights": [
+      "Schoenbrunn Palace",
+      "Vienna State Opera",
+      "Naschmarkt food stalls"
+    ],
+    "unsplashQuery": "vienna austria palace",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "oaxaca-mexico",
+    "name": "Oaxaca",
+    "country": "Mexico",
+    "region": "north-america",
+    "description": "Colorful colonial city renowned for mole sauces, mezcal, and indigenous Zapotec heritage.",
+    "climate": "mild",
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 30,
+      "mid": 70,
+      "luxury": 200
+    },
+    "flightEstimateUSD": {
+      "fromUS": 300,
+      "fromEurope": 550,
+      "fromAsia": 750
+    },
+    "activities": [
+      "food",
+      "culture",
+      "history"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Monte Alban ruins",
+      "Mezcal distillery tours",
+      "Day of the Dead celebrations"
+    ],
+    "unsplashQuery": "oaxaca mexico colorful streets",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1518659526054-190340b32735?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "valletta-malta",
+    "name": "Valletta",
+    "country": "Malta",
+    "region": "europe",
+    "description": "Tiny fortified capital packed with Baroque architecture and Mediterranean sunshine.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "budgetPerDayUSD": {
+      "budget": 40,
+      "mid": 90,
+      "luxury": 250
+    },
+    "flightEstimateUSD": {
+      "fromUS": 600,
+      "fromEurope": 70,
+      "fromAsia": 600
+    },
+    "activities": [
+      "history",
+      "culture",
+      "beach"
+    ],
+    "travelStyle": [
+      "couple",
+      "solo"
+    ],
+    "highlights": [
+      "St Johns Co-Cathedral",
+      "Blue Grotto",
+      "Valletta waterfront dining"
+    ],
+    "unsplashQuery": "valletta malta harbor",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "nicoya-costa-rica",
+    "name": "Nicoya Peninsula",
+    "country": "Costa Rica",
+    "region": "central-america",
+    "description": "Blue Zone surf haven with howler monkeys, yoga retreats, and some of the world's longest-lived people.",
+    "climate": "tropical",
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "budgetPerDayUSD": {
+      "budget": 35,
+      "mid": 80,
+      "luxury": 250
+    },
+    "flightEstimateUSD": {
+      "fromUS": 400,
+      "fromEurope": 650,
+      "fromAsia": 850
+    },
+    "activities": [
+      "beach",
+      "wellness",
+      "nature",
+      "adventure"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "backpacker"
+    ],
+    "highlights": [
+      "Santa Teresa surf",
+      "Montezuma waterfalls",
+      "Yoga retreats"
+    ],
+    "unsplashQuery": "costa rica beach surf",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "colombian-amazon",
+    "name": "Colombian Amazon",
+    "country": "Colombia",
+    "region": "south-america",
+    "description": "Dense rainforest canopy alive with pink river dolphins, monkeys, and indigenous communities.",
+    "climate": "tropical",
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "budgetPerDayUSD": {
+      "budget": 30,
+      "mid": 70,
+      "luxury": 200
+    },
+    "flightEstimateUSD": {
+      "fromUS": 450,
+      "fromEurope": 600,
+      "fromAsia": 950
+    },
+    "activities": [
+      "nature",
+      "adventure",
+      "culture"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Pink river dolphin spotting",
+      "Jungle lodge stays",
+      "Indigenous village visits"
+    ],
+    "unsplashQuery": "amazon rainforest river",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1504829857797-ddff29c27927?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "tel-aviv-israel",
+    "name": "Tel Aviv",
+    "country": "Israel",
+    "region": "middle-east",
+    "description": "Vibrant Mediterranean beach city with Bauhaus architecture, buzzing nightlife, and incredible food.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "budgetPerDayUSD": {
+      "budget": 55,
+      "mid": 140,
+      "luxury": 400
+    },
+    "flightEstimateUSD": {
+      "fromUS": 600,
+      "fromEurope": 200,
+      "fromAsia": 400
+    },
+    "activities": [
+      "beach",
+      "food",
+      "nightlife",
+      "culture"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple",
+      "backpacker"
+    ],
+    "highlights": [
+      "Jaffa old port",
+      "Carmel Market",
+      "White City Bauhaus"
+    ],
+    "unsplashQuery": "tel aviv beach israel",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "socotra-yemen",
+    "name": "Socotra Island",
+    "country": "Yemen",
+    "region": "middle-east",
+    "description": "Alien-looking island of dragon blood trees and species found nowhere else on the planet.",
+    "climate": "dry",
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "budgetPerDayUSD": {
+      "budget": 40,
+      "mid": 100,
+      "luxury": 250
+    },
+    "flightEstimateUSD": {
+      "fromUS": 900,
+      "fromEurope": 600,
+      "fromAsia": 500
+    },
+    "activities": [
+      "nature",
+      "adventure"
+    ],
+    "travelStyle": [
+      "solo",
+      "backpacker"
+    ],
+    "highlights": [
+      "Dragon blood trees",
+      "Dihamri Marine Reserve",
+      "Sand dunes beaches"
+    ],
+    "unsplashQuery": "socotra island dragon blood tree",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1597212618440-806262de4f6b?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "svalbard-norway",
+    "name": "Svalbard",
+    "country": "Norway",
+    "region": "europe",
+    "description": "Remote Arctic archipelago with polar bears, glaciers, and months of continuous daylight.",
+    "climate": "cold",
+    "bestMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "budgetPerDayUSD": {
+      "budget": 80,
+      "mid": 200,
+      "luxury": 500
+    },
+    "flightEstimateUSD": {
+      "fromUS": 700,
+      "fromEurope": 200,
+      "fromAsia": 700
+    },
+    "activities": [
+      "nature",
+      "adventure"
+    ],
+    "travelStyle": [
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Polar bear spotting",
+      "Glacier hiking",
+      "Global Seed Vault"
+    ],
+    "unsplashQuery": "svalbard arctic glaciers",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1504829857797-ddff29c27927?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "essaouira-morocco",
+    "name": "Essaouira",
+    "country": "Morocco",
+    "region": "africa",
+    "description": "Windswept Atlantic port town beloved by surfers, artists, and seafood lovers.",
+    "climate": "mild",
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "budgetPerDayUSD": {
+      "budget": 25,
+      "mid": 65,
+      "luxury": 180
+    },
+    "flightEstimateUSD": {
+      "fromUS": 600,
+      "fromEurope": 150,
+      "fromAsia": 600
+    },
+    "activities": [
+      "beach",
+      "culture",
+      "food"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "solo",
+      "couple"
+    ],
+    "highlights": [
+      "Medina ramparts",
+      "Gnaoua music festival",
+      "Argan oil cooperatives"
+    ],
+    "unsplashQuery": "essaouira morocco coast",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1597212618440-806262de4f6b?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "palawan-philippines",
+    "name": "Coron",
+    "country": "Philippines",
+    "region": "southeast-asia",
+    "description": "Hidden lagoons, WWII shipwreck dives, and jagged limestone peaks above emerald seas.",
+    "climate": "tropical",
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "budgetPerDayUSD": {
+      "budget": 25,
+      "mid": 65,
+      "luxury": 200
+    },
+    "flightEstimateUSD": {
+      "fromUS": 850,
+      "fromEurope": 700,
+      "fromAsia": 280
+    },
+    "activities": [
+      "beach",
+      "adventure",
+      "nature"
+    ],
+    "travelStyle": [
+      "backpacker",
+      "couple",
+      "solo"
+    ],
+    "highlights": [
+      "Kayangan Lake",
+      "Shipwreck diving",
+      "Twin Lagoon"
+    ],
+    "unsplashQuery": "coron palawan philippines",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800&h=600&fit=crop"
+  }
+]

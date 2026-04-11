@@ -1,0 +1,872 @@
+[
+  {
+    "id": "bali-indonesia-5day",
+    "destinationId": "bali-indonesia",
+    "title": "5 Days in Bali",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Ubud Culture & Rice Terraces",
+        "activities": [
+          { "time": "morning", "description": "Walk through the Tegallalang Rice Terraces and grab a smoothie bowl at Alchemy café in central Ubud" },
+          { "time": "afternoon", "description": "Explore the Sacred Monkey Forest Sanctuary then browse artisan shops along Jalan Hanoman" },
+          { "time": "evening", "description": "Watch a traditional Kecak fire dance at Ubud Royal Palace and dine at Locavore for modern Indonesian cuisine" }
+        ],
+        "estimatedCostUSD": 55
+      },
+      {
+        "day": 2,
+        "title": "Temples & Waterfalls",
+        "activities": [
+          { "time": "morning", "description": "Visit Tirta Empul water temple for a Balinese purification ritual" },
+          { "time": "afternoon", "description": "Chase waterfalls at Tegenungan and cool off with a swim at the base pool" },
+          { "time": "evening", "description": "Sunset dinner at Swept Away restaurant overlooking the Ayung River valley" }
+        ],
+        "estimatedCostUSD": 50
+      },
+      {
+        "day": 3,
+        "title": "Seminyak Beach Day",
+        "activities": [
+          { "time": "morning", "description": "Drive to Seminyak and start with brunch at Sisterfields on Jalan Kayu Aya" },
+          { "time": "afternoon", "description": "Relax at Potato Head Beach Club with ocean views, infinity pool, and cocktails" },
+          { "time": "evening", "description": "Catch the legendary sunset from La Plancha beach bar then dinner at Mama San" }
+        ],
+        "estimatedCostUSD": 75
+      },
+      {
+        "day": 4,
+        "title": "East Bali Adventure",
+        "activities": [
+          { "time": "morning", "description": "Sunrise trek up Mount Batur volcano — your guide meets you at 3:30am for the 2-hour hike to the summit" },
+          { "time": "afternoon", "description": "Soak in the Toya Devasya natural hot springs at the base of Mount Batur" },
+          { "time": "evening", "description": "Explore Sidemen village for a quiet dinner at Warung Wayan with valley views" }
+        ],
+        "estimatedCostUSD": 65
+      },
+      {
+        "day": 5,
+        "title": "Uluwatu & South Coast",
+        "activities": [
+          { "time": "morning", "description": "Head south and grab breakfast at The Loft in Canggu on the way down" },
+          { "time": "afternoon", "description": "Surf or sunbathe at Padang Padang Beach, the hidden cove from Eat Pray Love" },
+          { "time": "evening", "description": "Sunset Kecak dance at Uluwatu Temple perched on 70-meter cliffs, then grilled seafood on Jimbaran Bay beach" }
+        ],
+        "estimatedCostUSD": 60
+      }
+    ]
+  },
+  {
+    "id": "bangkok-thailand-5day",
+    "destinationId": "bangkok-thailand",
+    "title": "5 Days in Bangkok",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Grand Palace & Old Town",
+        "activities": [
+          { "time": "morning", "description": "Visit the Grand Palace and Wat Phra Kaew (Temple of the Emerald Buddha) — arrive early at 8:30am to beat crowds" },
+          { "time": "afternoon", "description": "Cross the Chao Phraya River by ferry to Wat Arun and climb the central prang for panoramic views" },
+          { "time": "evening", "description": "Street food crawl through Chinatown's Yaowarat Road — try the famous oyster omelets and mango sticky rice" }
+        ],
+        "estimatedCostUSD": 40
+      },
+      {
+        "day": 2,
+        "title": "Markets & Canal Life",
+        "activities": [
+          { "time": "morning", "description": "Take a longtail boat tour through Thonburi canals to see traditional stilt houses and floating vendors" },
+          { "time": "afternoon", "description": "Explore the massive Chatuchak Weekend Market — over 15,000 stalls across 35 sections" },
+          { "time": "evening", "description": "Rooftop drinks at Sky Bar at Lebua State Tower, then dinner at Err Urban Rustic Thai near Wat Pho" }
+        ],
+        "estimatedCostUSD": 55
+      },
+      {
+        "day": 3,
+        "title": "Modern Bangkok",
+        "activities": [
+          { "time": "morning", "description": "Visit Wat Pho to see the 46-meter reclining Buddha, then get a traditional Thai massage on-site" },
+          { "time": "afternoon", "description": "Explore the trendy Ari neighborhood — lunch at Pla Dib for fresh sashimi and browse indie boutiques" },
+          { "time": "evening", "description": "Night market dinner at Jodd Fairs near Rama 9, famous for crab pad thai and grilled seafood" }
+        ],
+        "estimatedCostUSD": 45
+      },
+      {
+        "day": 4,
+        "title": "Day Trip to Floating Market",
+        "activities": [
+          { "time": "morning", "description": "Early drive to Damnoen Saduak Floating Market — paddle through canals and eat pad thai from a boat" },
+          { "time": "afternoon", "description": "Stop at the Maeklong Railway Market where vendors fold up stalls as trains pass inches away" },
+          { "time": "evening", "description": "Back in Bangkok for dinner at Thipsamai on Mahachai Road — the city's most famous pad thai" }
+        ],
+        "estimatedCostUSD": 50
+      },
+      {
+        "day": 5,
+        "title": "Hidden Gems & Last Bites",
+        "activities": [
+          { "time": "morning", "description": "Visit the Jim Thompson House museum — a stunning teak home filled with Southeast Asian art" },
+          { "time": "afternoon", "description": "World-class Thai massage at Wat Pho Traditional Medical School, then explore the hip Talat Noi street art district" },
+          { "time": "evening", "description": "Farewell dinner at Jay Fai, the legendary street food stall with a Michelin star — try the drunken noodles and crab omelet" }
+        ],
+        "estimatedCostUSD": 65
+      }
+    ]
+  },
+  {
+    "id": "tokyo-japan-5day",
+    "destinationId": "tokyo-japan",
+    "title": "5 Days in Tokyo",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Shibuya & Harajuku",
+        "activities": [
+          { "time": "morning", "description": "Start at Meiji Shrine in Yoyogi Park for a peaceful walk through towering torii gates and old-growth forest" },
+          { "time": "afternoon", "description": "Explore Harajuku's Takeshita Street for kawaii culture, then walk Omotesando for upscale architecture and boutiques" },
+          { "time": "evening", "description": "Cross the iconic Shibuya Scramble, then head to Shibuya Yokocho food alley for yakitori and highballs" }
+        ],
+        "estimatedCostUSD": 80
+      },
+      {
+        "day": 2,
+        "title": "Tsukiji, Ginza & Akihabara",
+        "activities": [
+          { "time": "morning", "description": "Breakfast at Tsukiji Outer Market — fresh sushi at Sushi Dai or tamagoyaki from Yamachou" },
+          { "time": "afternoon", "description": "Walk through upscale Ginza district and visit teamLab Borderless digital art museum in Azabudai Hills" },
+          { "time": "evening", "description": "Explore the neon-lit streets of Akihabara for anime culture, then ramen at Fuunji in Shinjuku" }
+        ],
+        "estimatedCostUSD": 95
+      },
+      {
+        "day": 3,
+        "title": "Asakusa & East Tokyo",
+        "activities": [
+          { "time": "morning", "description": "Visit Senso-ji temple in Asakusa — walk through the Kaminarimon thunder gate and browse Nakamise shopping street" },
+          { "time": "afternoon", "description": "Cross the Sumida River to Tokyo Skytree for 360-degree views, then explore the quirky shops of Shimokitazawa" },
+          { "time": "evening", "description": "Bar-hop through the tiny Golden Gai alleyways in Shinjuku — each bar seats only 6-8 people" }
+        ],
+        "estimatedCostUSD": 85
+      },
+      {
+        "day": 4,
+        "title": "Shinjuku & Hidden Neighborhoods",
+        "activities": [
+          { "time": "morning", "description": "Stroll through Shinjuku Gyoen National Garden — one of Tokyo's most beautiful parks with Japanese and French gardens" },
+          { "time": "afternoon", "description": "Take the train to Yanaka, Tokyo's old-town neighborhood with traditional shotengai shopping streets and cat statues" },
+          { "time": "evening", "description": "Dinner under the Shinjuku train tracks at Omoide Yokocho (Memory Lane) — smoky yakitori joints since the 1940s" }
+        ],
+        "estimatedCostUSD": 75
+      },
+      {
+        "day": 5,
+        "title": "Toyosu, Odaiba & Farewell",
+        "activities": [
+          { "time": "morning", "description": "Early morning tuna auction viewing at Toyosu Fish Market, then sushi breakfast at one of the market restaurants" },
+          { "time": "afternoon", "description": "Cross Rainbow Bridge to Odaiba for the life-size Unicorn Gundam statue and Miraikan science museum" },
+          { "time": "evening", "description": "Final dinner in Ebisu at Afuri for their signature yuzu shio ramen, then drinks at a hidden speakeasy in Roppongi" }
+        ],
+        "estimatedCostUSD": 90
+      }
+    ]
+  },
+  {
+    "id": "kyoto-japan-5day",
+    "destinationId": "kyoto-japan",
+    "title": "5 Days in Kyoto",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Eastern Kyoto Temples",
+        "activities": [
+          { "time": "morning", "description": "Arrive early at Fushimi Inari Shrine to walk through thousands of vermillion torii gates up the mountain trail" },
+          { "time": "afternoon", "description": "Visit Kiyomizu-dera temple for stunning hilltop views, then stroll down the preserved streets of Ninenzaka and Sannenzaka" },
+          { "time": "evening", "description": "Dinner in the Gion district — try kaiseki dining at Gion Karyo, then walk Hanami-koji for possible geisha sightings" }
+        ],
+        "estimatedCostUSD": 80
+      },
+      {
+        "day": 2,
+        "title": "Golden Pavilion & Zen Gardens",
+        "activities": [
+          { "time": "morning", "description": "Visit Kinkaku-ji (Golden Pavilion) reflected in its mirror pond — one of Japan's most iconic sights" },
+          { "time": "afternoon", "description": "Meditate at Ryoan-ji's famous rock garden, then walk to Ninna-ji temple through quiet residential streets" },
+          { "time": "evening", "description": "Explore Nishiki Market (Kyoto's kitchen) for street food — try yuba, matcha treats, and pickled vegetables" }
+        ],
+        "estimatedCostUSD": 65
+      },
+      {
+        "day": 3,
+        "title": "Arashiyama & Bamboo",
+        "activities": [
+          { "time": "morning", "description": "Walk through the ethereal Arashiyama Bamboo Grove at sunrise before the crowds arrive" },
+          { "time": "afternoon", "description": "Cross the Togetsukyo Bridge, visit the monkey park on Mount Iwatayama, and explore Tenryu-ji temple gardens" },
+          { "time": "evening", "description": "Traditional tofu kaiseki dinner at Shoraian, a riverside restaurant in Arashiyama accessible only by boat" }
+        ],
+        "estimatedCostUSD": 85
+      },
+      {
+        "day": 4,
+        "title": "Tea Culture & Philosophy",
+        "activities": [
+          { "time": "morning", "description": "Walk the Philosopher's Path along the canal lined with cherry and maple trees to Ginkaku-ji (Silver Pavilion)" },
+          { "time": "afternoon", "description": "Attend a traditional tea ceremony in the Uji district — Japan's most famous matcha-growing region" },
+          { "time": "evening", "description": "Cross the river to Pontocho Alley for dinner at a tiny riverside restaurant with yuka terrace dining over the Kamogawa" }
+        ],
+        "estimatedCostUSD": 75
+      },
+      {
+        "day": 5,
+        "title": "Hidden Kyoto",
+        "activities": [
+          { "time": "morning", "description": "Explore the moss-covered grounds of Gio-ji temple, then nearby Adashino Nenbutsu-ji with its 8,000 stone statues" },
+          { "time": "afternoon", "description": "Visit Tofuku-ji temple for its stunning bridge views, then browse vintage kimono shops in the Teramachi arcade" },
+          { "time": "evening", "description": "Farewell dinner at Kyoto's Ramen Koji food floor in Kyoto Station — try the rich tonkotsu at Masutani" }
+        ],
+        "estimatedCostUSD": 60
+      }
+    ]
+  },
+  {
+    "id": "paris-france-5day",
+    "destinationId": "paris-france",
+    "title": "5 Days in Paris",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Icons of Paris",
+        "activities": [
+          { "time": "morning", "description": "Climb the Eiffel Tower early (book the 9am slot online), then stroll through Champ de Mars gardens" },
+          { "time": "afternoon", "description": "Walk across Pont Alexandre III to the Champs-Elysees, then up to the Arc de Triomphe rooftop for city views" },
+          { "time": "evening", "description": "Dinner in Saint-Germain-des-Pres at Le Comptoir du Pantheon, then evening walk along the illuminated Seine" }
+        ],
+        "estimatedCostUSD": 120
+      },
+      {
+        "day": 2,
+        "title": "The Louvre & Le Marais",
+        "activities": [
+          { "time": "morning", "description": "Spend the morning at the Louvre — head straight to the Winged Victory, then Mona Lisa, then the Egyptian wing" },
+          { "time": "afternoon", "description": "Explore Le Marais neighborhood — falafel at L'As du Fallafel on Rue des Rosiers, then browse vintage shops" },
+          { "time": "evening", "description": "Cocktails at Candelaria (hidden bar behind a taqueria), then dinner at Breizh Cafe for savory buckwheat crepes" }
+        ],
+        "estimatedCostUSD": 110
+      },
+      {
+        "day": 3,
+        "title": "Montmartre & Hidden Paris",
+        "activities": [
+          { "time": "morning", "description": "Climb to Sacre-Coeur basilica in Montmartre, then wander the cobblestone streets around Place du Tertre" },
+          { "time": "afternoon", "description": "Visit Musee d'Orsay for the world's best Impressionist collection — Monet, Renoir, Van Gogh all in one building" },
+          { "time": "evening", "description": "Wine and cheese at a cave a manger in the 11th arrondissement, try Le Verre Vole near Canal Saint-Martin" }
+        ],
+        "estimatedCostUSD": 105
+      },
+      {
+        "day": 4,
+        "title": "Versailles Day Trip",
+        "activities": [
+          { "time": "morning", "description": "Take the RER C train to Versailles — explore the Hall of Mirrors and State Apartments before noon crowds" },
+          { "time": "afternoon", "description": "Wander the gardens of Versailles, rent a rowboat on the Grand Canal, and visit Marie Antoinette's Hamlet" },
+          { "time": "evening", "description": "Back in Paris for dinner at Bouillon Chartier — a stunning Belle Epoque dining hall with classic French dishes at local prices" }
+        ],
+        "estimatedCostUSD": 100
+      },
+      {
+        "day": 5,
+        "title": "Latin Quarter & Farewell",
+        "activities": [
+          { "time": "morning", "description": "Browse the Shakespeare and Company bookshop, then coffee and croissants at Cafe de Flore in Saint-Germain" },
+          { "time": "afternoon", "description": "Explore the Latin Quarter — visit the Pantheon, Luxembourg Gardens, and pick up macarons at Pierre Herme" },
+          { "time": "evening", "description": "Sunset cruise on the Seine with Bateaux Mouches, then farewell dinner at Le Bouillon Pigalle in the 18th" }
+        ],
+        "estimatedCostUSD": 130
+      }
+    ]
+  },
+  {
+    "id": "rome-italy-5day",
+    "destinationId": "rome-italy",
+    "title": "5 Days in Rome",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Ancient Rome",
+        "activities": [
+          { "time": "morning", "description": "Tour the Colosseum with underground access (book ahead), then walk through the Roman Forum ruins" },
+          { "time": "afternoon", "description": "Climb Palatine Hill for views over the Forum, then toss a coin in the Trevi Fountain" },
+          { "time": "evening", "description": "Dinner in Trastevere — try the cacio e pepe at Da Enzo al 29 (arrive early, there's always a line)" }
+        ],
+        "estimatedCostUSD": 95
+      },
+      {
+        "day": 2,
+        "title": "Vatican City",
+        "activities": [
+          { "time": "morning", "description": "Early entry to the Vatican Museums — rush through to the Sistine Chapel first, then double back to explore the galleries" },
+          { "time": "afternoon", "description": "Climb to the top of St. Peter's Basilica dome for breathtaking views, then explore Castel Sant'Angelo" },
+          { "time": "evening", "description": "Aperitivo hour in the Prati neighborhood near the Vatican, then dinner at Pizzarium for Rome's best pizza al taglio" }
+        ],
+        "estimatedCostUSD": 90
+      },
+      {
+        "day": 3,
+        "title": "Piazzas & Pantheon",
+        "activities": [
+          { "time": "morning", "description": "Visit the Pantheon at opening time when light streams through the oculus, then espresso at Sant'Eustachio Il Caffe" },
+          { "time": "afternoon", "description": "Wander from Piazza Navona to Campo de' Fiori market, grab suppli (fried rice balls) at Supplizio" },
+          { "time": "evening", "description": "Sunset walk to the Spanish Steps, then dinner in the Jewish Ghetto — try the fried artichokes at Nonna Betta" }
+        ],
+        "estimatedCostUSD": 80
+      },
+      {
+        "day": 4,
+        "title": "Borghese & Testaccio",
+        "activities": [
+          { "time": "morning", "description": "Timed entry at Galleria Borghese to see Bernini's sculptures and Caravaggio paintings in a stunning villa" },
+          { "time": "afternoon", "description": "Stroll through Villa Borghese gardens, rent a rowboat on the lake, then walk down to Piazza del Popolo" },
+          { "time": "evening", "description": "Explore the foodie neighborhood of Testaccio — street food at Mercato Testaccio, then pasta at Felice a Testaccio" }
+        ],
+        "estimatedCostUSD": 85
+      },
+      {
+        "day": 5,
+        "title": "Appian Way & Farewell",
+        "activities": [
+          { "time": "morning", "description": "Rent a bike and ride the ancient Appian Way past ruins, catacombs, and Roman aqueducts" },
+          { "time": "afternoon", "description": "Visit the Capuchin Crypt beneath Santa Maria della Concezione, then gelato at Fatamorgana near Piazza di Spagna" },
+          { "time": "evening", "description": "Farewell dinner at Roscioli — their carbonara is legendary, and the wine cellar has over 2,600 labels" }
+        ],
+        "estimatedCostUSD": 90
+      }
+    ]
+  },
+  {
+    "id": "barcelona-spain-5day",
+    "destinationId": "barcelona-spain",
+    "title": "5 Days in Barcelona",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Gaudi's Barcelona",
+        "activities": [
+          { "time": "morning", "description": "Visit La Sagrada Familia — book the tower access for jaw-dropping views of the spiraling staircases and city" },
+          { "time": "afternoon", "description": "Explore Park Guell's mosaic terraces and Gaudi's gingerbread-style gatehouses with panoramic city views" },
+          { "time": "evening", "description": "Tapas crawl through Gracia neighborhood — try Bar Bodega Quimet for vermouth and patatas bravas" }
+        ],
+        "estimatedCostUSD": 85
+      },
+      {
+        "day": 2,
+        "title": "Gothic Quarter & Las Ramblas",
+        "activities": [
+          { "time": "morning", "description": "Get lost in the Gothic Quarter's medieval lanes — visit the Barcelona Cathedral and Placa Reial" },
+          { "time": "afternoon", "description": "Browse La Boqueria market on Las Ramblas for fresh juices, jamon iberico, and seafood cones" },
+          { "time": "evening", "description": "Dinner at Cal Pep near the waterfront for some of the best tapas in the city — sit at the bar for the full experience" }
+        ],
+        "estimatedCostUSD": 80
+      },
+      {
+        "day": 3,
+        "title": "Beach & Born Quarter",
+        "activities": [
+          { "time": "morning", "description": "Walk along Barceloneta Beach, then brunch at La Mar Salada with views of the marina" },
+          { "time": "afternoon", "description": "Explore the El Born neighborhood — visit the Picasso Museum, then browse indie boutiques on Carrer del Rec" },
+          { "time": "evening", "description": "Sunset drinks at a rooftop bar in the Born, then dinner at El Xampanyet for cava and anchovies" }
+        ],
+        "estimatedCostUSD": 75
+      },
+      {
+        "day": 4,
+        "title": "Montjuic & Eixample",
+        "activities": [
+          { "time": "morning", "description": "Take the cable car up Montjuic hill to the castle for sweeping views of the harbor and city" },
+          { "time": "afternoon", "description": "Visit the Fundacio Joan Miro, then walk down through the gardens to the Magic Fountain" },
+          { "time": "evening", "description": "Stroll the Eixample district to see Casa Batllo and Casa Mila lit up at night, then pintxos at Cerveceria Catalana" }
+        ],
+        "estimatedCostUSD": 80
+      },
+      {
+        "day": 5,
+        "title": "Hidden Barcelona",
+        "activities": [
+          { "time": "morning", "description": "Visit the Sant Pau Art Nouveau complex — a stunning former hospital that rivals Gaudi's work" },
+          { "time": "afternoon", "description": "Explore the Poblenou neighborhood's street art and converted warehouses, lunch at Els Quatre Gats" },
+          { "time": "evening", "description": "Farewell paella at La Mar Salada on the beach, then walk the Olympic Port as the sun sets" }
+        ],
+        "estimatedCostUSD": 75
+      }
+    ]
+  },
+  {
+    "id": "lisbon-portugal-5day",
+    "destinationId": "lisbon-portugal",
+    "title": "5 Days in Lisbon",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Alfama & Old Lisbon",
+        "activities": [
+          { "time": "morning", "description": "Ride Tram 28 through the winding streets, then walk up to Sao Jorge Castle for panoramic views" },
+          { "time": "afternoon", "description": "Get lost in Alfama's labyrinth of alleys — visit the Lisbon Cathedral (Se) and stop for ginjinha at A Ginjinha" },
+          { "time": "evening", "description": "Dinner at a traditional tasca in Alfama, then live Fado music at Clube de Fado or Mesa de Frades" }
+        ],
+        "estimatedCostUSD": 65
+      },
+      {
+        "day": 2,
+        "title": "Belem & Discoveries",
+        "activities": [
+          { "time": "morning", "description": "Take the tram to Belem — visit Jeronimos Monastery, then eat the original pasteis de nata at Pasteis de Belem" },
+          { "time": "afternoon", "description": "Explore the Tower of Belem and the Monument to the Discoveries along the Tagus River waterfront" },
+          { "time": "evening", "description": "Head to LX Factory, a converted industrial complex with restaurants, bookshops, and rooftop bars" }
+        ],
+        "estimatedCostUSD": 60
+      },
+      {
+        "day": 3,
+        "title": "Bairro Alto & Chiado",
+        "activities": [
+          { "time": "morning", "description": "Ride the Santa Justa Elevator for city views, then coffee at A Brasileira in Chiado where Pessoa used to sit" },
+          { "time": "afternoon", "description": "Browse the Feira da Ladra flea market, then explore the street art and miradouros of Graca" },
+          { "time": "evening", "description": "Dinner at Cervejaria Ramiro for the best seafood in Lisbon — the garlic shrimp and steak sandwich chaser are legendary" }
+        ],
+        "estimatedCostUSD": 75
+      },
+      {
+        "day": 4,
+        "title": "Sintra Day Trip",
+        "activities": [
+          { "time": "morning", "description": "Train to Sintra (40 min) — visit the colorful Pena Palace perched on a hilltop surrounded by forest" },
+          { "time": "afternoon", "description": "Explore the mystical Quinta da Regaleira with its initiatic well, underground tunnels, and gardens" },
+          { "time": "evening", "description": "Back in Lisbon for dinner in the Santos neighborhood — try O Velho Eurico for hearty Portuguese comfort food" }
+        ],
+        "estimatedCostUSD": 70
+      },
+      {
+        "day": 5,
+        "title": "Riverside & Farewell",
+        "activities": [
+          { "time": "morning", "description": "Walk along the riverfront from Cais do Sodre to the Time Out Market for a brunch of Portuguese specialties" },
+          { "time": "afternoon", "description": "Cross the Tagus by ferry to Cacilhas for views of the 25 de Abril Bridge, then visit the Cristo Rei statue" },
+          { "time": "evening", "description": "Farewell sunset drinks at Miradouro da Graca, then dinner at Taberna da Rua das Flores for petiscos" }
+        ],
+        "estimatedCostUSD": 60
+      }
+    ]
+  },
+  {
+    "id": "marrakech-morocco-5day",
+    "destinationId": "marrakech-morocco",
+    "title": "5 Days in Marrakech",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Medina & Souks",
+        "activities": [
+          { "time": "morning", "description": "Dive into the Medina souks — start at Souk Semmarine and wind through the leather, spice, and textile sections" },
+          { "time": "afternoon", "description": "Visit the Bahia Palace with its intricate zellij tilework and painted cedar ceilings" },
+          { "time": "evening", "description": "Watch the sunset circus at Jemaa el-Fnaa square — snake charmers, storytellers, and dozens of food stalls firing up" }
+        ],
+        "estimatedCostUSD": 45
+      },
+      {
+        "day": 2,
+        "title": "Gardens & Palaces",
+        "activities": [
+          { "time": "morning", "description": "Wander the Jardin Majorelle — Yves Saint Laurent's cobalt blue garden with cacti and a Berber museum" },
+          { "time": "afternoon", "description": "Visit the Saadian Tombs and the ruins of El Badi Palace, once covered in gold and onyx" },
+          { "time": "evening", "description": "Rooftop dinner at Nomad in the Medina with views over the spice market — try the lamb tangia and harira soup" }
+        ],
+        "estimatedCostUSD": 55
+      },
+      {
+        "day": 3,
+        "title": "Atlas Mountains Day Trip",
+        "activities": [
+          { "time": "morning", "description": "Drive 90 minutes to the Atlas Mountains — hike through Berber villages in the Ourika Valley" },
+          { "time": "afternoon", "description": "Lunch at a family-run Berber home with tagine and mint tea, then visit the Setti Fatma waterfalls" },
+          { "time": "evening", "description": "Back in Marrakech for a traditional hammam experience at Les Bains de Marrakech spa" }
+        ],
+        "estimatedCostUSD": 60
+      },
+      {
+        "day": 4,
+        "title": "Art, Craft & Culture",
+        "activities": [
+          { "time": "morning", "description": "Take a Moroccan cooking class in a riad — learn to make tagine, couscous, and preserved lemons from scratch" },
+          { "time": "afternoon", "description": "Visit the Museum of Marrakech in the old Ben Youssef Medersa, then explore the tanneries in the northern Medina" },
+          { "time": "evening", "description": "Dinner at Al Fassia — a famous restaurant run entirely by women, known for the best traditional Moroccan cuisine in the city" }
+        ],
+        "estimatedCostUSD": 65
+      },
+      {
+        "day": 5,
+        "title": "Hidden Marrakech",
+        "activities": [
+          { "time": "morning", "description": "Explore the Mellah (Jewish Quarter) and visit the Lazama Synagogue, then browse the spice market at Rahba Kedima" },
+          { "time": "afternoon", "description": "Visit Le Jardin Secret, a beautifully restored riad garden in the heart of the Medina with a rooftop tower view" },
+          { "time": "evening", "description": "Farewell dinner at Dar Yacout — a palatial riad restaurant with live Gnawa music and a multi-course Moroccan feast" }
+        ],
+        "estimatedCostUSD": 70
+      }
+    ]
+  },
+  {
+    "id": "cape-town-south-africa-5day",
+    "destinationId": "cape-town-south-africa",
+    "title": "5 Days in Cape Town",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Table Mountain & Waterfront",
+        "activities": [
+          { "time": "morning", "description": "Take the rotating cable car up Table Mountain — hike the short summit trail for 360-degree views of the Cape" },
+          { "time": "afternoon", "description": "Explore the V&A Waterfront — visit the Zeitz MOCAA contemporary African art museum in a converted grain silo" },
+          { "time": "evening", "description": "Sunset drinks at the Silo Hotel rooftop bar, then dinner at The Pot Luck Club in the Woodstock neighborhood" }
+        ],
+        "estimatedCostUSD": 95
+      },
+      {
+        "day": 2,
+        "title": "Cape Peninsula",
+        "activities": [
+          { "time": "morning", "description": "Drive Chapman's Peak — one of the world's most scenic coastal roads — to Cape Point and the lighthouse" },
+          { "time": "afternoon", "description": "Visit the penguin colony at Boulders Beach in Simon's Town, then fish and chips at Kalky's" },
+          { "time": "evening", "description": "Dinner in Kalk Bay at Harbour House with ocean views, then browse the quirky antique shops along Main Road" }
+        ],
+        "estimatedCostUSD": 85
+      },
+      {
+        "day": 3,
+        "title": "Winelands",
+        "activities": [
+          { "time": "morning", "description": "Drive to Stellenbosch — South Africa's most beautiful wine town surrounded by mountains and vineyards" },
+          { "time": "afternoon", "description": "Wine tasting at Delaire Graff estate with mountain views, then Babylonstoren for their famous garden lunch" },
+          { "time": "evening", "description": "Dinner in Franschhoek at La Petite Colombe, one of South Africa's top restaurants, then drive back to Cape Town" }
+        ],
+        "estimatedCostUSD": 120
+      },
+      {
+        "day": 4,
+        "title": "Bo-Kaap & City Culture",
+        "activities": [
+          { "time": "morning", "description": "Walk the colorful streets of Bo-Kaap — take a Cape Malay cooking class and learn to make bobotie and samoosas" },
+          { "time": "afternoon", "description": "Visit Robben Island by ferry — tour Nelson Mandela's former cell led by a former political prisoner" },
+          { "time": "evening", "description": "Dinner at The Test Kitchen in Woodstock or La Colombe for creative South African fine dining" }
+        ],
+        "estimatedCostUSD": 110
+      },
+      {
+        "day": 5,
+        "title": "Beaches & Farewell",
+        "activities": [
+          { "time": "morning", "description": "Hike Lion's Head at sunrise for incredible views of Table Mountain, the city, and both oceans" },
+          { "time": "afternoon", "description": "Relax at Camps Bay beach backed by the Twelve Apostles mountain range, lunch at Codfather for fresh seafood" },
+          { "time": "evening", "description": "Farewell sundowners at Beta Beach in Bakoven, then braai dinner at Mzansi in Woodstock" }
+        ],
+        "estimatedCostUSD": 80
+      }
+    ]
+  },
+  {
+    "id": "maldives-5day",
+    "destinationId": "maldives",
+    "title": "5 Days in the Maldives",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Paradise",
+        "activities": [
+          { "time": "morning", "description": "Seaplane transfer from Male airport to your atoll — the aerial views of turquoise rings in the Indian Ocean are unforgettable" },
+          { "time": "afternoon", "description": "Settle into your overwater bungalow, snorkel directly from your deck over the house reef" },
+          { "time": "evening", "description": "Welcome dinner on the beach with feet in the sand, fresh grilled lobster and reef fish under the stars" }
+        ],
+        "estimatedCostUSD": 200
+      },
+      {
+        "day": 2,
+        "title": "Underwater World",
+        "activities": [
+          { "time": "morning", "description": "Guided snorkel safari to spot sea turtles, reef sharks, and manta rays at a nearby reef channel" },
+          { "time": "afternoon", "description": "Try a beginner scuba dive or semi-submarine tour to see coral gardens without getting wet" },
+          { "time": "evening", "description": "Floating dinner on a platform in the lagoon, or sunset cocktails at the overwater bar" }
+        ],
+        "estimatedCostUSD": 200
+      },
+      {
+        "day": 3,
+        "title": "Island Hopping",
+        "activities": [
+          { "time": "morning", "description": "Speedboat to a local Maldivian island to visit the village, market, and see how locals live outside the resorts" },
+          { "time": "afternoon", "description": "Stop at a pristine sandbank in the middle of the ocean for swimming and a picnic lunch" },
+          { "time": "evening", "description": "Sunset dolphin cruise — spinner dolphins are common and often leap alongside the boat" }
+        ],
+        "estimatedCostUSD": 180
+      },
+      {
+        "day": 4,
+        "title": "Relaxation Day",
+        "activities": [
+          { "time": "morning", "description": "Overwater spa treatment — traditional Maldivian massage with coconut oil while waves lap beneath you" },
+          { "time": "afternoon", "description": "Kayak or stand-up paddleboard across the lagoon, then hammock time with a book on the beach" },
+          { "time": "evening", "description": "Night snorkeling to see bioluminescent plankton glowing in the shallow water along the beach" }
+        ],
+        "estimatedCostUSD": 190
+      },
+      {
+        "day": 5,
+        "title": "Last Day in the Blue",
+        "activities": [
+          { "time": "morning", "description": "Sunrise yoga on the beach, then a final snorkel session over the house reef to say goodbye to the fish" },
+          { "time": "afternoon", "description": "Explore Male if time allows — visit the fish market, Hukuru Miskiy mosque, and the colorful waterfront buildings" },
+          { "time": "evening", "description": "Farewell dinner at a Male local restaurant like Sala Thai or Symphony for a mix of Maldivian and Asian cuisine" }
+        ],
+        "estimatedCostUSD": 150
+      }
+    ]
+  },
+  {
+    "id": "reykjavik-iceland-5day",
+    "destinationId": "reykjavik-iceland",
+    "title": "5 Days in Reykjavik & Iceland",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Reykjavik City",
+        "activities": [
+          { "time": "morning", "description": "Walk to Hallgrimskirkja church for views from the tower, then stroll the colorful Laugavegur shopping street" },
+          { "time": "afternoon", "description": "Visit Harpa Concert Hall's stunning glass architecture, then the National Museum of Iceland for Viking history" },
+          { "time": "evening", "description": "Dinner at Grillid for modern Icelandic cuisine, then bar-hop along Laugavegur — Reykjavik's nightlife starts late" }
+        ],
+        "estimatedCostUSD": 150
+      },
+      {
+        "day": 2,
+        "title": "Golden Circle",
+        "activities": [
+          { "time": "morning", "description": "Drive to Thingvellir National Park — walk between the North American and Eurasian tectonic plates" },
+          { "time": "afternoon", "description": "Watch Strokkur geyser erupt every 5-8 minutes at Geysir, then visit the powerful Gullfoss waterfall" },
+          { "time": "evening", "description": "Soak in the Secret Lagoon in Fludir — a smaller, more authentic alternative to the Blue Lagoon" }
+        ],
+        "estimatedCostUSD": 140
+      },
+      {
+        "day": 3,
+        "title": "South Coast Adventure",
+        "activities": [
+          { "time": "morning", "description": "Drive to Seljalandsfoss waterfall — you can walk behind the curtain of water — then nearby Skogafoss" },
+          { "time": "afternoon", "description": "Walk on Reynisfjara black sand beach with its dramatic basalt columns and roaring Atlantic waves" },
+          { "time": "evening", "description": "Dinner in the village of Vik, then drive back watching for Northern Lights if visiting in winter" }
+        ],
+        "estimatedCostUSD": 130
+      },
+      {
+        "day": 4,
+        "title": "Glaciers & Ice",
+        "activities": [
+          { "time": "morning", "description": "Join a glacier hike on Solheimajokull — strap on crampons and walk across ancient blue ice with a guide" },
+          { "time": "afternoon", "description": "Drive to Jokulsarlon glacier lagoon to see icebergs calving into the lake, then Diamond Beach where ice washes ashore" },
+          { "time": "evening", "description": "Dinner in Hofn, the lobster capital of Iceland — try langoustine soup at Pakkhus restaurant" }
+        ],
+        "estimatedCostUSD": 175
+      },
+      {
+        "day": 5,
+        "title": "Sky Lagoon & Farewell",
+        "activities": [
+          { "time": "morning", "description": "Visit the Sky Lagoon near Reykjavik for their 7-step spa ritual with cold plunge and ocean views" },
+          { "time": "afternoon", "description": "Last walk around Reykjavik — visit the Sun Voyager sculpture, Grandi food hall for a lamb hot dog at Baejarins Beztu" },
+          { "time": "evening", "description": "Farewell dinner at Dill, Iceland's Michelin-starred restaurant featuring New Nordic cuisine with Icelandic ingredients" }
+        ],
+        "estimatedCostUSD": 180
+      }
+    ]
+  },
+  {
+    "id": "cusco-peru-5day",
+    "destinationId": "cusco-peru",
+    "title": "5 Days in Cusco & Machu Picchu",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Cusco Arrival & Acclimatization",
+        "activities": [
+          { "time": "morning", "description": "Arrive in Cusco at 3,400m altitude — take it slow with coca tea and a gentle walk around Plaza de Armas" },
+          { "time": "afternoon", "description": "Visit the Qorikancha (Temple of the Sun) where Inca gold walls once reflected sunlight across the city" },
+          { "time": "evening", "description": "Dinner at Cicciolina on Calle Triunfo — try alpaca steak and a pisco sour in a cozy colonial setting" }
+        ],
+        "estimatedCostUSD": 55
+      },
+      {
+        "day": 2,
+        "title": "Sacred Valley",
+        "activities": [
+          { "time": "morning", "description": "Drive to the Sacred Valley — visit the Pisac ruins and the vibrant Pisac artisan market" },
+          { "time": "afternoon", "description": "Explore the Moray circular Inca terraces (an ancient agricultural lab), then the Maras salt mines with thousands of pink terraced pools" },
+          { "time": "evening", "description": "Stay overnight in Ollantaytambo — wander the living Inca town and dine at Hearts Cafe" }
+        ],
+        "estimatedCostUSD": 65
+      },
+      {
+        "day": 3,
+        "title": "Machu Picchu",
+        "activities": [
+          { "time": "morning", "description": "Take the early PeruRail Vistadome train to Aguas Calientes, then bus up the switchbacks to Machu Picchu at sunrise" },
+          { "time": "afternoon", "description": "Guided tour of the citadel — Sun Temple, Intihuatana stone, Temple of Three Windows — then hike Huayna Picchu if you booked a permit" },
+          { "time": "evening", "description": "Train back to Ollantaytambo or Cusco — dinner at El Indio Feliz in Aguas Calientes if you stay overnight" }
+        ],
+        "estimatedCostUSD": 150
+      },
+      {
+        "day": 4,
+        "title": "Cusco Culture",
+        "activities": [
+          { "time": "morning", "description": "Walk up to the massive Sacsayhuaman fortress above Cusco — the zig-zag stone walls weigh up to 200 tons each" },
+          { "time": "afternoon", "description": "Explore the San Pedro Market for fresh juices, cheese empanadas, and choclo con queso (giant corn with cheese)" },
+          { "time": "evening", "description": "Peruvian cooking class in San Blas neighborhood, then drinks at Museo del Pisco for creative pisco cocktails" }
+        ],
+        "estimatedCostUSD": 60
+      },
+      {
+        "day": 5,
+        "title": "Rainbow Mountain & Farewell",
+        "activities": [
+          { "time": "morning", "description": "Early drive to Vinicunca (Rainbow Mountain) — the 2-hour hike to 5,200m rewards you with striped, multicolored peaks" },
+          { "time": "afternoon", "description": "Return to Cusco and recover with a traditional Andean massage, then browse artisan textile shops in San Blas" },
+          { "time": "evening", "description": "Farewell dinner at MAP Cafe inside the Museo de Arte Precolombino — fine dining surrounded by ancient art" }
+        ],
+        "estimatedCostUSD": 75
+      }
+    ]
+  },
+  {
+    "id": "new-york-usa-5day",
+    "destinationId": "new-york-usa",
+    "title": "5 Days in New York City",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Manhattan Icons",
+        "activities": [
+          { "time": "morning", "description": "Walk across the Brooklyn Bridge at sunrise, then grab coffee and a croissant at Time Out Market in DUMBO" },
+          { "time": "afternoon", "description": "Explore Lower Manhattan — 9/11 Memorial pools, Wall Street, then ferry to the Statue of Liberty and Ellis Island" },
+          { "time": "evening", "description": "Dinner in the West Village at Via Carota for Italian, then walk the High Line park lit up at night" }
+        ],
+        "estimatedCostUSD": 120
+      },
+      {
+        "day": 2,
+        "title": "Midtown & Central Park",
+        "activities": [
+          { "time": "morning", "description": "Visit the Met Museum on the Upper East Side — the Egyptian Temple of Dendur and Impressionist wing are must-sees" },
+          { "time": "afternoon", "description": "Walk through Central Park — Bethesda Fountain, Bow Bridge, Strawberry Fields, then over to Columbus Circle" },
+          { "time": "evening", "description": "See a Broadway show in the Theater District, then late-night pizza at Joe's Pizza on Carmine Street" }
+        ],
+        "estimatedCostUSD": 160
+      },
+      {
+        "day": 3,
+        "title": "Brooklyn Day",
+        "activities": [
+          { "time": "morning", "description": "Explore Williamsburg — walk Bedford Avenue for vintage shops, then brunch at Sunday in Brooklyn for their famous pancakes" },
+          { "time": "afternoon", "description": "Street art tour in Bushwick, then take the L train to Smorgasburg food market on the waterfront" },
+          { "time": "evening", "description": "Cocktails at Westlight rooftop bar in Williamsburg for skyline views, then dinner at Lilia for handmade pasta" }
+        ],
+        "estimatedCostUSD": 130
+      },
+      {
+        "day": 4,
+        "title": "SoHo, Chelsea & The Village",
+        "activities": [
+          { "time": "morning", "description": "Shop and stroll through SoHo's cast-iron architecture on Greene and Broome streets, coffee at La Colombe" },
+          { "time": "afternoon", "description": "Visit the Whitney Museum of American Art in the Meatpacking District, then browse Chelsea Market for food and gifts" },
+          { "time": "evening", "description": "Dinner at Los Tacos No. 1 in Chelsea Market, then live jazz at the Village Vanguard in Greenwich Village" }
+        ],
+        "estimatedCostUSD": 115
+      },
+      {
+        "day": 5,
+        "title": "Uptown & Farewell",
+        "activities": [
+          { "time": "morning", "description": "Visit the Guggenheim Museum's spiral rotunda on the Upper East Side, then bagels at Russ and Daughters on the Lower East Side" },
+          { "time": "afternoon", "description": "Explore Harlem — gospel brunch at Sylvia's Restaurant, then walk past the Apollo Theater and brownstone-lined streets" },
+          { "time": "evening", "description": "Farewell dinner at Le Bernardin for world-class seafood, then Top of the Rock at sunset for your last NYC panorama" }
+        ],
+        "estimatedCostUSD": 175
+      }
+    ]
+  },
+  {
+    "id": "santorini-greece-5day",
+    "destinationId": "santorini-greece",
+    "title": "5 Days in Santorini",
+    "duration": 5,
+    "days": [
+      {
+        "day": 1,
+        "title": "Oia & Caldera Views",
+        "activities": [
+          { "time": "morning", "description": "Explore the blue-domed churches of Oia — walk the marble lanes and find the iconic three-dome viewpoint" },
+          { "time": "afternoon", "description": "Descend the 300 steps to Ammoudi Bay for lunch at Sunset Ammoudi taverna — grilled octopus right off the boat" },
+          { "time": "evening", "description": "Claim your spot for the famous Oia sunset at the castle ruins, then dinner at Lauda for caldera-view fine dining" }
+        ],
+        "estimatedCostUSD": 110
+      },
+      {
+        "day": 2,
+        "title": "Fira & Volcano",
+        "activities": [
+          { "time": "morning", "description": "Walk the caldera path from Fira to Imerovigli — 3km of stunning cliff-edge views of the volcanic crater" },
+          { "time": "afternoon", "description": "Take a boat tour to the volcanic islands — hike Nea Kameni's crater and swim in the hot springs of Palea Kameni" },
+          { "time": "evening", "description": "Dinner at Koukoumavlos in Fira for creative Greek cuisine, then drinks at Tango Bar on the caldera edge" }
+        ],
+        "estimatedCostUSD": 100
+      },
+      {
+        "day": 3,
+        "title": "Beaches & Wine",
+        "activities": [
+          { "time": "morning", "description": "Visit Red Beach near Akrotiri — dramatic red volcanic cliffs meeting crystal-clear water" },
+          { "time": "afternoon", "description": "Wine tasting at Santo Wines or Venetsanos Winery — try the crisp Assyrtiko grape unique to Santorini's volcanic soil" },
+          { "time": "evening", "description": "Dinner in the hilltop village of Pyrgos at Selene restaurant, one of the island's most celebrated tables" }
+        ],
+        "estimatedCostUSD": 105
+      },
+      {
+        "day": 4,
+        "title": "Ancient History & Local Life",
+        "activities": [
+          { "time": "morning", "description": "Visit Akrotiri archaeological site — a Minoan city buried by volcanic eruption in 1600 BC, the Greek Pompeii" },
+          { "time": "afternoon", "description": "Relax at Perissa Black Sand Beach — lounge at a beach bar and swim in the warm Aegean" },
+          { "time": "evening", "description": "Meze dinner at To Psaraki in Vlychada port — fresh seafood in a no-frills harbor setting the locals love" }
+        ],
+        "estimatedCostUSD": 85
+      },
+      {
+        "day": 5,
+        "title": "Thirassia Island & Farewell",
+        "activities": [
+          { "time": "morning", "description": "Take a small boat to Thirassia island — Santorini's quiet, untouristy neighbor with whitewashed villages and no crowds" },
+          { "time": "afternoon", "description": "Back in Santorini, explore Megalochori village with its traditional cave houses and cava wine cellars" },
+          { "time": "evening", "description": "Farewell dinner at Ambrosia in Oia — reserve a balcony table for one last legendary Santorini sunset" }
+        ],
+        "estimatedCostUSD": 115
+      }
+    ]
+  }
+]
