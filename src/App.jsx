@@ -13,7 +13,7 @@ import SharedBoardPage from './pages/SharedBoardPage'
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <ScrollToTop />
       <BoardsProvider>
         <Layout>

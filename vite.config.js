@@ -1,10 +1,9 @@
 // =============================================================
 // vite.config.js — Vite Configuration
 // =============================================================
-// This file tells Vite (our build tool) how to process our code.
-// "Plugins" are add-ons that give Vite extra abilities.
-// - react(): Lets Vite understand React's JSX syntax
-// - tailwindcss(): Lets Vite process Tailwind CSS utility classes
+// "base" tells Vite the URL path the app will be served from.
+// On GitHub Pages, the app lives at /wanderlust/ (repo name).
+// Locally (dev server), it's just /.
 // =============================================================
 
 import { defineConfig } from 'vite'
@@ -12,8 +11,9 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
+  base: '/wanderlust/',
   plugins: [
-    react(),        // Enables React support (JSX, fast refresh)
-    tailwindcss(),  // Enables Tailwind CSS utility classes
+    react(),
+    tailwindcss(),
   ],
 })
